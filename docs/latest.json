@@ -1,9 +1,9 @@
 {
  "repo": "phone-tablet-price-emailer",
  "status": "ok",
- "updated_at": "2026-10-12T01:12:12+00:00",
- "item_count": 398,
- "model_count": 238,
+ "updated_at": "2026-10-12T13:24:35+00:00",
+ "item_count": 352,
+ "model_count": 205,
  "shops": [
   {
    "id": "tgdd",
@@ -50,8 +50,8 @@
   {
    "id": "nguyenkim",
    "name": "Nguyễn Kim",
-   "count": 46,
-   "status": "ok"
+   "count": 0,
+   "status": "failed"
   },
   {
    "id": "mediamart",
