@@ -1,9 +1,4 @@
 ﻿shop,category,model,name,price,old_price,url
-Hoàng Hà Mobile,phone,Anker 1C 45W A121D CÓ Màn Hình Led,Anker 1C 45W A121D có màn hình led,850000,,https://hoanghamobile.com/cu-sac/anker-1c-45w-a121d
-Hoàng Hà Mobile,phone,Apple Watch SE 3,"Apple Watch SE 3 - GPS, 40mm - Vỏ Nhôm Dây Cao Su S/M",6090000,6990000,https://hoanghamobile.com/dong-ho-thong-minh/apple-watch-se-3-gps-40mm-vo-nhom-day-cao-su
-Hoàng Hà Mobile,phone,Apple Watch SE 3,"Apple Watch SE 3 - GPS, 44mm - Vỏ Nhôm Dây Cao Su dây M/L",6890000,,https://hoanghamobile.com/dong-ho-thong-minh/apple-watch-se-3-2025-day-m-l
-Hoàng Hà Mobile,phone,Apple Watch SE 3,"Apple Watch SE 3 - GPS, 44mm - Vỏ Nhôm Dây Cao Su dây S/M",6890000,7790000,https://hoanghamobile.com/dong-ho-thong-minh/apple-watch-se-3-2025
-Hoàng Hà Mobile,phone,Apple Watch Series 11,"Apple Watch Series 11 - GPS, 42mm - Viền Nhôm Dây Cao Su",8990000,11490000,https://hoanghamobile.com/dong-ho-thong-minh/apple-watch-series-11
 ShopDunk,tablet,Apple iPad 11,iPad (A16) 11 inch Wi-Fi,11890000,12390000,https://shopdunk.com/ipad-a16-11-inch-wi-fi
 Thế Giới Di Động,tablet,Apple iPad 11 128GB,Máy tính bảng iPad 11 (A16) Wifi 128GB Pink,12790000,,https://www.thegioididong.com/may-tinh-bang/ipad-11-wifi-128gb
 Minh Tuấn Mobile,tablet,Apple iPad 128GB,iPad (A16) Wifi 128GB - Chính hãng VN,12090000,12790000,https://minhtuanmobile.com/ipad-a16-11-inch/
@@ -18,7 +13,6 @@ MediaMart,tablet,Apple iPad A16 128G,Apple iPad A16 WiFi 128G Silver,11990000,,h
 MediaMart,tablet,Apple iPad A16 128G Blue 11 990 000 13 790 000 13 128GB,Apple iPad A16 WiFi 128G Blue 128 GB 11.990.000 ₫ 13.790.000 ₫ -13%,11990000,13790000,https://mediamart.vn/may-tinh-bang/apple-ipad-gen-11-a16-11-128g-wifi-blue
 MediaMart,tablet,Apple iPad A16 128G Pink 11 990 000 13 790 000 13 128GB,Apple iPad A16 WiFi 128G Pink 128 GB 11.990.000 ₫ 13.790.000 ₫ -13%,11990000,13790000,https://mediamart.vn/may-tinh-bang/apple-ipad-gen-11-a16-11-128g-wifi-pink
 MediaMart,tablet,Apple iPad A16 128G Silver 11 990 000 13 790 000 13 128GB,Apple iPad A16 WiFi 128G Silver 128 GB 11.990.000 ₫ 13.790.000 ₫ -13%,11990000,13790000,https://mediamart.vn/may-tinh-bang/apple-ipad-gen-11-a16-11-128g-wifi-silver
-Hoàng Hà Mobile,tablet,Apple iPad A16 128GB,iPad A16 Wifi 128GB,11890000,,https://hoanghamobile.com/may-tinh-bang/ipad-gen-11-11-inch-wifi-128gb
 Điện Máy Xanh,tablet,Apple iPad A16 128GB,iPad A16 WiFi 128GB,12090000,12790000,https://www.dienmayxanh.com/may-tinh-bang/ipad-11-wifi-128gb
 Điện Máy Xanh,tablet,Apple iPad A16 128GB,iPad A16 5G 128GB,16290000,16990000,https://www.dienmayxanh.com/may-tinh-bang/ipad-11-5g-128gb
 CellphoneS,tablet,Apple iPad A16 2025 128GB,iPad A16 Wifi 128GB 2025 | Chính hãng Apple Việt Nam,12290000,12790000,https://cellphones.com.vn/ipad-a16-11-inch.html
@@ -28,8 +22,9 @@ MediaMart,tablet,Apple iPad A16 256G Silver 14 990 000 16 590 000 9 256GB,Apple 
 ShopDunk,tablet,Apple iPad Air 11,iPad Air (M4) 11-inch Wi-Fi,18490000,20490000,https://shopdunk.com/ipad-air-m4-11-inch-wi-fi-v1
 CellphoneS,tablet,Apple iPad Air 11 M3 2025 128GB,iPad Air 11 inch M3 Wifi 128GB 2025 | Chính hãng Apple Việt Nam,16990000,21490000,https://cellphones.com.vn/apple-ipad-air-m3.html
 Thế Giới Di Động,tablet,Apple iPad Air 11 M4 128GB,Máy tính bảng iPad Air 11 M4 Wifi 128GB Blue,20990000,,https://www.thegioididong.com/may-tinh-bang/ipad-air-m4-11-inch-wifi-128gb
-CellphoneS,tablet,Apple iPad Air 11 M4 2026 128GB,iPad Air 11 inch M4 Wifi 128GB 2026 | Chính hãng,19490000,20990000,https://cellphones.com.vn/apple-ipad-air-m4-11-inch-128gb-wifi.html
+CellphoneS,tablet,Apple iPad Air 11 M4 2026 128GB,iPad Air 11 inch M4 Wifi 128GB 2026 | Chính hãng,18990000,20990000,https://cellphones.com.vn/apple-ipad-air-m4-11-inch-128gb-wifi.html
 CellphoneS,tablet,Apple iPad Air 11 M4 2026 256GB,iPad Air 11 inch M4 Wifi 256GB 2026 | Chính hãng,21990000,23790000,https://cellphones.com.vn/apple-ipad-air-m4-11-inch-256gb-wifi.html
+CellphoneS,tablet,Apple iPad Air 13 M4 2026 128GB,iPad Air 13 inch M4 Wifi 128GB 2026 | Chính hãng,24590000,26490000,https://cellphones.com.vn/apple-ipad-air-m4-13-inch-128gb-wifi.html
 MediaMart,tablet,Apple iPad Air M4 11 128G,Apple iPad Air M4 11 WiFi 128G Tím,18990000,,https://mediamart.vn/may-tinh-bang#29439
 MediaMart,tablet,Apple iPad Air M4 11 128G,Apple iPad Air M4 11 WiFi 128G Trắng Starlight,18990000,,https://mediamart.vn/may-tinh-bang#29438
 MediaMart,tablet,Apple iPad Air M4 11 128G,Apple iPad Air M4 11 WiFi 128G Xanh,18990000,,https://mediamart.vn/may-tinh-bang#29437
@@ -46,7 +41,6 @@ MediaMart,tablet,Apple iPad Air M4 11 128G Xanh 18 990 000 21 990 000 13 128GB,"
 MediaMart,tablet,Apple iPad Air M4 11 128G Xanh 23 990 000 25 990 000 7 128GB,"Apple iPad Air M4 11"" 5G 128G Xanh 128 GB 23.990.000 ₫ 25.990.000 ₫ -7%",23990000,25990000,https://mediamart.vn/may-tinh-bang/apple-ipad-air-m4-11-5g-128g-xanh
 MediaMart,tablet,Apple iPad Air M4 11 128G Xám Grey 18 990 000 21 990 000 13 128GB,"Apple iPad Air M4 11"" WiFi 128G Xám Grey 128 GB 18.990.000 ₫ 21.990.000 ₫ -13%",18990000,21990000,https://mediamart.vn/may-tinh-bang/apple-ipad-air-m4-11-wifi-128g-xam-grey
 MediaMart,tablet,Apple iPad Air M4 11 128G Xám Grey 23 990 000 25 990 000 7 128GB,"Apple iPad Air M4 11"" 5G 128G Xám Grey 128 GB 23.990.000 ₫ 25.990.000 ₫ -7%",23990000,25990000,https://mediamart.vn/may-tinh-bang/apple-ipad-air-m4-11-5g-128g-xam-grey
-Hoàng Hà Mobile,tablet,Apple iPad Air M4 11 128GB,iPad Air M4 11 inch Wi-Fi 128GB - Chính hãng Apple Việt Nam,18990000,,https://hoanghamobile.com/may-tinh-bang/ipad-air-m4
 Điện Máy Xanh,tablet,Apple iPad Air M4 11 128GB,iPad Air M4 11 inch WiFi 128GB,19690000,20990000,https://www.dienmayxanh.com/may-tinh-bang/ipad-air-m4-11-inch-wifi-128gb
 Di Động Việt,tablet,Apple iPad Air M4 11 21 790 000 Đ 23 790 000 Đ 8 TỪ 01 08 256GB,iPad Air M4 11 inch Wi-Fi 256GB Chính Hãng 21.790.000 đ 23.790.000 đ -8% Từ 01.08 - 31.10 : Học sinh đổi điểm giảm thêm đến 1 triệu (xem chi tiết) Thu mua máy c,21790000,23790000,https://didongviet.vn/may-tinh-bang/ipad-air-m4-11-inch-256gb-wifi.html
 MediaMart,tablet,Apple iPad Air M4 11 256G,Apple iPad Air M4 11 WiFi 256G Tím,22490000,,https://mediamart.vn/may-tinh-bang#29443
@@ -127,6 +121,8 @@ CellphoneS,tablet,Apple iPad Pro Chip M5 11 256GB,iPad Pro chip M5 11 inch Wifi 
 24hStore,tablet,Apple iPad Pro M4 11 2024 Cellular 2TB,iPad Pro M4 11 inch 2024 Wifi Cellular 2TB |...,61490000,61990000,https://24hstore.vn/ipad-pro-m4-2024-moi/ipad-pro-m4-11-inch-2024-wifi-cellular-2tb-p11180
 24hStore,tablet,Apple iPad Pro M4 11 2024 Cellular Mặt,iPad Pro M4 11 inch 2024 Wifi Cellular (mặt...,63090000,63590000,https://24hstore.vn/ipad-pro-m4-2024-moi/ipad-pro-m4-11-inch-2024-wifi-cellular-mat-kinh-nano-2tb-p11192
 24hStore,tablet,Apple iPad Pro M4 11 2024 Mặt Kính,iPad Pro M4 11 inch 2024 Wifi (mặt kính...,58490000,58990000,https://24hstore.vn/ipad-pro-m4-2024-moi/ipad-pro-m4-11-inch-2024-wifi-mat-kinh-nano-2tb-p11191
+CellphoneS,tablet,Apple iPad Pro M4 11 2TB,iPad Pro M4 11 inch Wifi 2TB | Chính hãng Apple Việt Nam,40990000,65490000,https://cellphones.com.vn/ipad-pro-m4-11-inch-2tb.html
+CellphoneS,tablet,Apple iPad Pro M4 11 Nano 2TB,iPad Pro M4 11 inch Wifi 2TB Nano | Chính hãng Apple Việt Nam,41990000,68290000,https://cellphones.com.vn/ipad-pro-m4-11-inch-2tb-nano.html
 24hStore,tablet,Apple iPad Pro M4 13 2024 2TB,iPad Pro M4 13 inch 2024 Wifi 2TB | Chính...,64490000,64990000,https://24hstore.vn/ipad-pro-m4-2024-moi/ipad-pro-m4-13-inch-2024-wifi-2tb-p11189
 24hStore,tablet,Apple iPad Pro M4 13 2024 Cellular 1TB,iPad Pro M4 13 inch 2024 Wifi Cellular 1TB |...,59490000,59990000,https://24hstore.vn/ipad-pro-m4-2024-moi/ipad-pro-m4-13-inch-2024-wifi-cellular-1tb-p11169
 24hStore,tablet,Apple iPad Pro M4 13 2024 Cellular 2TB,iPad Pro M4 13 inch 2024 Wifi Cellular 2TB |...,70490000,70990000,https://24hstore.vn/ipad-pro-m4-2024-moi/ipad-pro-m4-13-inch-2024-wifi-cellular-2tb-p11190
@@ -156,6 +152,7 @@ Minh Tuấn Mobile,tablet,Apple iPad Pro M5 11 512GB,iPad Pro M5 11 inch Wifi 51
 Minh Tuấn Mobile,phone,Apple iPhone 15 128GB,iPhone 15 128GB - Chính hãng VN/A,19990000,22990000,https://minhtuanmobile.com/iphone-15/
 Minh Tuấn Mobile,phone,Apple iPhone 15 256GB,iPhone 15 256GB - Chính hãng VN/A,23990000,25990000,https://minhtuanmobile.com/iphone-15-256gb/
 Minh Tuấn Mobile,phone,Apple iPhone 16 128GB,iPhone 16 128GB - Chính hãng VN/A,22990000,24990000,https://minhtuanmobile.com/iphone-16/
+Điện Máy Xanh,phone,Apple iPhone 16 128GB,iPhone 16 128GB,24990000,,https://www.dienmayxanh.com/dien-thoai/iphone-16
 Minh Tuấn Mobile,phone,Apple iPhone 16 Plus 128GB,iPhone 16 Plus 128GB - Chính hãng VN/A,24490000,25990000,https://minhtuanmobile.com/iphone-16-plus/
 24hStore,phone,Apple iPhone 16 Pro 1TB,iPhone 16 Pro 1TB | Chính hãng VN/A,36890000,43990000,https://24hstore.vn/iphone-16-pro/iphone-16-pro-1tb-p10943
 24hStore,phone,Apple iPhone 16 Pro Max 1TB,iPhone 16 Pro Max 1TB | Chính hãng VN/A,40790000,46990000,https://24hstore.vn/iphone-16-pro-max/iphone-16-pro-max-1tb-p10946
@@ -164,8 +161,9 @@ MediaMart,phone,Apple iPhone 17 256GB,Apple iPhone 17 256GB (Trắng),24990000,,
 MediaMart,phone,Apple iPhone 17 256GB,Apple iPhone 17 256GB (Xanh Lam Khói),24990000,,https://mediamart.vn/smartphones#28312
 MediaMart,phone,Apple iPhone 17 256GB,Apple iPhone 17 256GB (Xanh Lá Xô Thơm),24990000,,https://mediamart.vn/smartphones#28310
 MediaMart,phone,Apple iPhone 17 256GB,Apple iPhone 17 256GB (Tím Oải Hương),24990000,,https://mediamart.vn/smartphones#28207
+Hoàng Hà Mobile,phone,Apple iPhone 17 256GB,iPhone 17 256GB - Chính hãng Apple Việt Nam,25184000,25490000,https://hoanghamobile.com/dien-thoai/iphone-17
+Thế Giới Di Động,phone,Apple iPhone 17 256GB,iPhone 17 256GB,26490000,28990000,https://www.thegioididong.com/dtdd/iphone-17
 Minh Tuấn Mobile,phone,Apple iPhone 17 256GB,iPhone 17 256GB - Chính hãng VN,26490000,28990000,https://minhtuanmobile.com/iphone-17/
-Thế Giới Di Động,phone,Apple iPhone 17 256GB,iPhone 17 256GB,26990000,28990000,https://www.thegioididong.com/dtdd/iphone-17
 MediaMart,phone,Apple iPhone 17 Nfc 24 990 000 25 990 000 3 256GB,Apple iPhone 17 256GB (Tím Oải Hương) NFC 256 GB 24.990.000 ₫ 25.990.000 ₫ -3%,24990000,25990000,https://mediamart.vn/smartphones/apple-iphone-17-256gb
 MediaMart,phone,Apple iPhone 17 Nfc 24 990 000 25 990 000 3 256GB,Apple iPhone 17 256GB (Xanh Lá Xô Thơm) NFC 256 GB 24.990.000 ₫ 25.990.000 ₫ -3%,24990000,25990000,https://mediamart.vn/smartphones/apple-iphone-17-256gb-xanh-la-xo-thom
 MediaMart,phone,Apple iPhone 17 Nfc 24 990 000 25 990 000 3 256GB,Apple iPhone 17 256GB (Xanh Lam Khói) NFC 256 GB 24.990.000 ₫ 25.990.000 ₫ -3%,24990000,25990000,https://mediamart.vn/smartphones/apple-iphone-17-256gb-xanh-lam-khoi
@@ -173,6 +171,7 @@ MediaMart,phone,Apple iPhone 17 Nfc 24 990 000 25 990 000 3 256GB,Apple iPhone 1
 24hStore,phone,Apple iPhone 17 Pro 1TB,iPhone 17 Pro 1TB | Chính hãng Việt Nam,41490000,47990000,https://24hstore.vn/iphone-17-pro/iphone-17-pro-1tb-p11590
 Minh Tuấn Mobile,phone,Apple iPhone 17 Pro 1TB,iPhone 17 Pro 1TB - Chính hãng VN,43990000,47990000,https://minhtuanmobile.com/iphone-17-pro-1tb/
 Minh Tuấn Mobile,phone,Apple iPhone 17 Pro 256GB,iPhone 17 Pro 256GB - Chính hãng VN,31790000,34990000,https://minhtuanmobile.com/iphone-17-pro/
+Minh Tuấn Mobile,phone,Apple iPhone 17 Pro 512GB,iPhone 17 Pro 512GB - Chính hãng VN,37990000,41490000,https://minhtuanmobile.com/iphone-17-pro-512gb/
 24hStore,phone,Apple iPhone 17 Pro Max 1TB,iPhone 17 Pro Max 1TB | Chính hãng Việt Nam,44490000,50990000,https://24hstore.vn/iphone-17-pro-max/iphone-17-pro-max-1tb-p11586
 Minh Tuấn Mobile,phone,Apple iPhone 17 Pro Max 1TB,iPhone 17 Pro Max 1TB - Chính hãng VN,47490000,50990000,https://minhtuanmobile.com/iphone-17-pro-max-1tb/
 MediaMart,phone,Apple iPhone 17 Pro Max 256GB,Apple iPhone 17 Pro Max 256GB (Cam Vũ Trụ),33490000,,https://mediamart.vn/smartphones#28216
@@ -185,7 +184,6 @@ Minh Tuấn Mobile,phone,Apple iPhone 17 Pro Max 512GB,iPhone 17 Pro Max 512GB -
 Thế Giới Di Động,phone,Apple iPhone 17 Pro Max Deep 256GB,Điện thoại iPhone 17 Pro Max 256GB Deep Blue,37490000,,https://www.thegioididong.com/dtdd/iphone-17-pro-max
 MediaMart,phone,Apple iPhone 17 Pro Max Nfc 33 490 000 38 990 000 14 256GB,Apple iPhone 17 Pro Max 256GB (Cam Vũ Trụ) NFC 256 GB 33.490.000 ₫ 38.990.000 ₫ -14%,33490000,38990000,https://mediamart.vn/smartphones/apple-iphone-17-pro-max-256gb
 Minh Tuấn Mobile,phone,Apple iPhone 17E 256GB,iPhone 17e 256GB,19990000,21990000,https://minhtuanmobile.com/iphone-17e/
-Hoàng Hà Mobile,phone,Apple iPhone 17E 256GB,iPhone 17e 256GB - Chính hãng Apple Việt Nam,20343000,20590000,https://hoanghamobile.com/dien-thoai/iphone-17e
 24hStore,phone,Apple iPhone 18 Pro 1TB,iPhone 18 Pro 1TB | Chính hãng Việt Nam,55490000,58490000,https://24hstore.vn/iphone-18-pro/iphone-18-pro-1tb-p12564
 24hStore,phone,Apple iPhone 18 Pro 256GB,iPhone 18 Pro 256GB | Chính hãng Việt Nam,35990000,38990000,https://24hstore.vn/iphone-18-pro/iphone-18-pro-256gb-p12562
 Clickbuy,phone,Apple iPhone 18 Pro 256GB,iPhone 18 Pro 256GB,36750000,38999000,https://clickbuy.com.vn/iphone-18-pro.html
@@ -210,34 +208,22 @@ MediaMart,phone,Apple iPhone Air Nfc 22 990 000 32 990 000 30 256GB,Apple iPhone
 24hStore,phone,Apple iPhone Duo 256GB,iPhone Duo 256GB | Chính hãng Việt Nam,64990000,,https://24hstore.vn/iPhoneDuo
 ShopDunk,phone,Apple iPhone Duo 256GB,iPhone Duo 256GB,64990000,,https://shopdunk.com/dien-thoai-iphone-duo-256gb
 Thế Giới Di Động,phone,Apple iPhone Duo Star 256GB,Điện thoại iPhone Duo 256GB Star White,64990000,,https://www.thegioididong.com/dtdd/iphone-duo
-Hoàng Hà Mobile,phone,Asus Màn Hình Asus Tuf Vg249q5r,Màn hình Asus TUF VG249Q5R,2550000,2890000,https://hoanghamobile.com/man-hinh/asus-tuf-vg249q5r
-Hoàng Hà Mobile,phone,Asus Màn Hình DI Động Asus Zenscreen Mb169ck,Màn hình di động ASUS ZenScreen MB169CK,2650000,3490000,https://hoanghamobile.com/man-hinh-may-tinh/man-hinh-di-dong-asus-zenscreen-mb169ck
-Hoàng Hà Mobile,phone,Asus Router 6 Băng Tần Kép Asus RT Ax52 Ax1800,Router Wifi 6 băng tần kép Asus RT-AX52 AX1800 - Chính hãng,880000,1590000,https://hoanghamobile.com/bo-phat-wifi-thiet-bi-mang-truyen-hinh-boxtv/router-wifi-6-bang-tan-kep-asus-rt-ax52-ax1800-chinh-hang
-Hoàng Hà Mobile,phone,Asus S3407C Sf913w 512GB,ASUS S3407C SF913W (Ultra 5-225H/16GB RAM/512GB/14 inch/Win11/Xám),25990000,29990000,https://hoanghamobile.com/laptop/asus-vivobook-s14-s3407ca-sf913w
-Hoàng Hà Mobile,phone,BỘ Phát DI Động TP Link M7000,Bộ phát Wifi di động 4G TP-Link M7000 - Chính hãng,1170000,1399000,https://hoanghamobile.com/bo-phat-wifi-thiet-bi-mang-truyen-hinh-boxtv/bo-phat-wifi-di-dong-4g-tp-link-m7000
-Hoàng Hà Mobile,phone,Camera Giám Sát Trong Nhà IP 3M Fpt SE 3,Camera giám sát trong nhà IP 3M FPT SE 3,549000,,https://hoanghamobile.com/camera/camera-giam-sat-trong-nha-ip-3m-fpt-se-3
-Hoàng Hà Mobile,phone,Camera IP 360 ĐỘ 3MP Imou Ipc A32EP L,Camera IP 360 độ 3MP IMOU IPC-A32EP-L,690000,,https://hoanghamobile.com/camera/ip-360-do-3mp-imou-ipc-a32ep-l
-Hoàng Hà Mobile,phone,Camera IP Ezviz H6C Pro 2K 3MP,Camera IP Wifi EZVIZ H6C Pro 2K 3MP - Chính hãng,690000,,https://hoanghamobile.com/camera/camera-ip-wifi-ezviz-h6c-pro-2k-3mp-chinh-hang
-Hoàng Hà Mobile,phone,Camera IP TP Link Tapo C200 360 1080P,Camera IP Wifi TP-Link Tapo C200 360° 1080P - Chính hãng,1390000,,https://hoanghamobile.com/camera/camera-ip-wifi-tp-link-tapo-c200-360°-1080p-chinh-hang
-Hoàng Hà Mobile,phone,Cân Điện TỬ Thông Minh 365 Selection Ws1,Cân điện tử thông minh 365 Selection WS1 (365-SEL-601),690000,,https://hoanghamobile.com/can-thong-minh/can-dien-tu-thong-minh-365-selection-ws1-365-sel-601
 CellphoneS,tablet,Giá RẺ,Máy tính bảng giá rẻ,1990000,,https://cellphones.com.vn/tablet.html
-Hoàng Hà Mobile,phone,HP Victus 15 Fa2452tx D44VLPA,HP VICTUS 15 FA2452TX-D44VLPA,27990000,29990000,https://hoanghamobile.com/laptop/hp-victus-15-fa2452tx-d44vlpa
-Hoàng Hà Mobile,phone,Hera S9,Hera S9 - 2.8 inch - Chính hãng,650000,,https://hoanghamobile.com/dien-thoai/dien-thoai-di-dong-hera-s9-2.8-inch
-Hoàng Hà Mobile,phone,Hera V9,Hera V9 - Chính hãng,590000,,https://hoanghamobile.com/dien-thoai/dien-thoai-di-dong-xphone-hera-v9
-Thế Giới Di Động,phone,Honor 600 Lite 256GB,Honor 600 Lite 8GB/256GB,9190000,10990000,https://www.thegioididong.com/dtdd/honor-600-lite-8gb-256gb
+Thế Giới Di Động,phone,Honor 600 Lite 256GB,Honor 600 Lite 8GB/256GB,8990000,10990000,https://www.thegioididong.com/dtdd/honor-600-lite-8gb-256gb
 Minh Tuấn Mobile,phone,Honor 600S 128GB,Điện thoại HONOR 600S 5G 6GB 128GB,8990000,10490000,https://minhtuanmobile.com/dien-thoai-honor-600s-5g-6gb-128gb/
-CellphoneS,tablet,Honor Pad V9 256GB,HONOR Pad V9 Wifi 8GB 256GB,13690000,15990000,https://cellphones.com.vn/may-tinh-bang-honor-pad-v9-wifi.html
+CellphoneS,tablet,Honor Pad V9 256GB,HONOR Pad V9 Wifi 8GB 256GB,12990000,15990000,https://cellphones.com.vn/may-tinh-bang-honor-pad-v9-wifi.html
 Minh Tuấn Mobile,tablet,Honor Pad X8B 128GB,HONOR Pad X8b Wifi 6GB 128GB,6490000,7490000,https://minhtuanmobile.com/honor-pad-x8b-wifi-6gb-128gb/
+CellphoneS,tablet,Honor Pad X8B 128GB,Honor Pad X8b Wifi 6GB 128GB,6690000,7490000,https://cellphones.com.vn/may-tinh-bang-honor-pad-x8b.html
 Minh Tuấn Mobile,phone,Honor X5C Plus 128GB,Điện thoại HONOR X5c Plus 4GB 128GB,3690000,3990000,https://minhtuanmobile.com/honor-x5c-plus-4gb-128gb/
 Minh Tuấn Mobile,phone,Honor X5C Plus 64GB,Điện thoại HONOR X5c Plus 4GB 64GB,3390000,3690000,https://minhtuanmobile.com/honor-x5c-plus-4gb-64gb/
 Điện Máy Xanh,phone,Honor X6C 256GB,Honor X6c (6+256GB) Trắng,4790000,,https://www.dienmayxanh.com/dien-thoai/honor-x6c-6gb-256gb
 Minh Tuấn Mobile,phone,Honor X7D 128GB,Điện thoại HONOR X7d 8GB 128GB,5490000,6490000,https://minhtuanmobile.com/dien-thoai-honor-x7d-8gb-128gb/
-Minh Tuấn Mobile,phone,Honor X8D 128GB,Điện thoại HONOR X8d 8GB 128GB,8090000,,https://minhtuanmobile.com/honor-x8d-8gb-128gb/
+Minh Tuấn Mobile,phone,Honor X8D 128GB,Điện thoại HONOR X8d 8GB 128GB,6790000,8090000,https://minhtuanmobile.com/honor-x8d-8gb-128gb/
 Minh Tuấn Mobile,phone,Honor X9D 512GB,Điện thoại HONOR X9d 5G 12GB 512GB,10590000,12990000,https://minhtuanmobile.com/dien-thoai-honor-x9d-5g-12gb-512gb/
 Hoàng Hà Mobile,phone,Hoặc 1 555 000 X 6T,"Hoặc 1,555,000 ₫ x 6T",13328000,16990000,https://hoanghamobile.com/tra-gop/dien-thoai/iphone-16e-128gb
 Hoàng Hà Mobile,phone,Hoặc 11 987 000 X 6T,"Hoặc 11,987,000 ₫ x 6T",102742000,103990000,https://hoanghamobile.com/tra-gop/dien-thoai/iphone-duo-2tb
-Hoàng Hà Mobile,phone,Hoặc 2 373 000 X 6T,"Hoặc 2,373,000 ₫ x 6T",20343000,20590000,https://hoanghamobile.com/tra-gop/dien-thoai/iphone-17e
-Hoàng Hà Mobile,phone,Hoặc 2 996 000 X 6T,"Hoặc 2,996,000 ₫ x 6T",25678000,33990000,https://hoanghamobile.com/tra-gop/dien-thoai/samsung-galaxy-s25-ultra
+Hoàng Hà Mobile,phone,Hoặc 2 938 000 X 6T,"Hoặc 2,938,000 ₫ x 6T",25184000,33990000,https://hoanghamobile.com/tra-gop/dien-thoai/samsung-galaxy-s25-ultra
+Hoàng Hà Mobile,phone,Hoặc 2 938 000 X 6T,"Hoặc 2,938,000 ₫ x 6T",25184000,25490000,https://hoanghamobile.com/tra-gop/dien-thoai/iphone-17
 Hoàng Hà Mobile,phone,Hoặc 3 399 000 X 6T,"Hoặc 3,399,000 ₫ x 6T",29136000,38490000,https://hoanghamobile.com/tra-gop/dien-thoai/iphone-air-512gb
 Hoàng Hà Mobile,phone,Hoặc 4 379 000 X 6T,"Hoặc 4,379,000 ₫ x 6T",37534000,46990000,https://hoanghamobile.com/tra-gop/dien-thoai/samsung-galaxy-z-fold7
 Hoàng Hà Mobile,phone,Hoặc 4 437 000 X 6T,"Hoặc 4,437,000 ₫ x 6T",38028000,38490000,https://hoanghamobile.com/tra-gop/dien-thoai/iphone-18-pro
@@ -252,61 +238,16 @@ Hoàng Hà Mobile,phone,Hoặc 8 240 000 X 6T,"Hoặc 8,240,000 ₫ x 6T",706320
 Hoàng Hà Mobile,phone,Hoặc 8 944 000 X 6T,"Hoặc 8,944,000 ₫ x 6T",76659000,77590000,https://hoanghamobile.com/tra-gop/dien-thoai/iphone-18-pro-2tb
 Hoàng Hà Mobile,phone,Hoặc 9 220 000 X 6T,"Hoặc 9,220,000 ₫ x 6T",79030000,79990000,https://hoanghamobile.com/tra-gop/dien-thoai/iphone-18-pro-max-2tb
 Hoàng Hà Mobile,phone,Hoặc 9 739 000 X 6T,"Hoặc 9,739,000 ₫ x 6T",83476000,84490000,https://hoanghamobile.com/tra-gop/dien-thoai/iphone-duo-1tb
-Hoàng Hà Mobile,phone,Huawei Đồng HỒ Thông Minh Huawei GT 6 41MM,Đồng hồ thông minh Huawei GT 6 41mm - Màu Nâu dây da,4990000,5990000,https://hoanghamobile.com/dong-ho-thong-minh/dong-ho-thong-minh-huawei-watch-gt-6-41mm-nau-day-da
-Hoàng Hà Mobile,phone,Huawei Đồng HỒ Thông Minh Huawei GT 6 41MM,Đồng hồ thông minh Huawei GT 6 41mm - Màu Tím dây cao su,4990000,5490000,https://hoanghamobile.com/dong-ho-thong-minh/dong-ho-thong-minh-huawei-watch-gt-6-41mm
-Hoàng Hà Mobile,phone,Huawei Đồng HỒ Thông Minh Huawei GT 6 41MM,Đồng hồ thông minh Huawei GT 6 41mm - Màu Trắng dây da,4990000,5990000,https://hoanghamobile.com/dong-ho-thong-minh/dong-ho-thong-minh-huawei-watch-gt-6-41mm-trang-day-da
-Hoàng Hà Mobile,phone,Huawei Đồng HỒ Thông Minh Huawei Watch GT 6 Milanese,Đồng hồ thông minh Huawei Watch GT 6 Milanese,6290000,6990000,https://hoanghamobile.com/dong-ho-thong-minh-huawei-watch-gt-6-milanese
-Hoàng Hà Mobile,phone,Itel It9211,Điện thoại Itel it9211 - 4G,690000,,https://hoanghamobile.com/dien-thoai/dien-thoai-itel-it9211-4g
 Điện Máy Xanh,tablet,Khoảng 2 700 000đ,Khoảng 2.700.000đ - 60.000.000đ,60000000,,https://www.dienmayxanh.com/may-tinh-bang#c=522&o=2&priceminmax=2600-59000&pi=0
-Hoàng Hà Mobile,phone,LG Puricare 360 Hit As60ghwg0 41W,LG PuriCare 360 Hit AS60GHWG0 41W,5290000,8390000,https://hoanghamobile.com/may-loc-khong-khi/lg-puricare-360-hit-as60ghwg0-41w
-Hoàng Hà Mobile,phone,Laptop Colorful X15 Xs22 512GB,Laptop Colorful X15 XS22 (i5 12450H/16GB/512GB/RTX3050 4GB/15.6 inch),24490000,28990000,https://hoanghamobile.com/laptop/colorful-x15-xs22
-Hoàng Hà Mobile,phone,Laptop Dell Dc15250 P112f010 5,Laptop Dell DC15250 P112F010-5,16890000,19990000,https://hoanghamobile.com/laptop/dell-dc15250-p112f010-5
-Hoàng Hà Mobile,phone,Laptop HP AI 15 Fd2050wm D4jk5ua,Laptop HP AI 15-fd2050wm D4JK5UA,16790000,22290000,https://hoanghamobile.com/laptop/hp-ai-15-fd2050wm-d4jk5ua
-Thế Giới Di Động,tablet,Lenovo Idea Tab 128GB,Lenovo Idea Tab WiFi 8GB/128GB,6790000,8690000,https://www.thegioididong.com/may-tinh-bang/lenovo-idea-tab-wifi-8gb-128gb
-Điện Máy Xanh,tablet,Lenovo Idea Tab 128GB,Lenovo Idea Tab 5G 8GB/128GB,7990000,9690000,https://www.dienmayxanh.com/may-tinh-bang/lenovo-idea-tab-5g-8gb-128gb
-Hoàng Hà Mobile,tablet,Lenovo Ideapad Slim 3 14iwc11 83rq002pvn 512GB,Lenovo IdeaPad Slim 3 14IWC11 83RQ002PVN (I5-320/8GB/512GB/14 inch/Win11),18290000,22990000,https://hoanghamobile.com/laptop/lenovo-ideapad-slim-3-14iwc11-83rq002pvn
-Hoàng Hà Mobile,tablet,Lenovo Laptop Lenovo Ideapad Slim 3 14iph11 83uq000jvn,Laptop Lenovo IdeaPad Slim 3 14IPH11 83UQ000JVN,23690000,27990000,https://hoanghamobile.com/laptop/lenovo-ideapad-slim-3-14iph11-83uq000jvn
+Thế Giới Di Động,tablet,Lenovo Idea Tab 128GB,Lenovo Idea Tab WiFi 8GB/128GB,8490000,8690000,https://www.thegioididong.com/may-tinh-bang/lenovo-idea-tab-wifi-8gb-128gb
+Điện Máy Xanh,tablet,Lenovo Idea Tab 128GB,Lenovo Idea Tab 5G 8GB/128GB,9490000,9690000,https://www.dienmayxanh.com/may-tinh-bang/lenovo-idea-tab-5g-8gb-128gb
 CellphoneS,tablet,Lenovo Legion Tab Gen 5 256GB,Lenovo Legion Tab Gen 5 12GB 256GB,23490000,23990000,https://cellphones.com.vn/may-tinh-bang-lenovo-legion-tab-gen-5-12gb-256gb-zah20030vn.html
 Thế Giới Di Động,tablet,Lenovo Tab 64GB,Lenovo Tab 4G 4GB/64GB,4190000,,https://www.thegioididong.com/may-tinh-bang/lenovo-tab-4g
-Hoàng Hà Mobile,phone,Lenovo V14 Gen 5 83hd005jvn 512GB,Lenovo V14 Gen 5 83HD005JVN (Core i5-13420H/16GB/512GB/14 inch/Windows 11),22890000,25690000,https://hoanghamobile.com/laptop/lenovo-v14-gen-5-83hd005jvn
-Hoàng Hà Mobile,phone,Loa Bluetooth DI Động Marshall Stockwell Iii,Loa Bluetooth Di Động Marshall Stockwell III - Chính hãng,6990000,,https://hoanghamobile.com/loa/marshall-stockwell-iii
-Hoàng Hà Mobile,phone,Loa Bluetooth Jbl Partybox Club 120,Loa Bluetooth JBL PartyBox Club 120 - Chính Hãng,8690000,11990000,https://hoanghamobile.com/loa/loa-bluetooth-jbl-partybox-club-120
-Hoàng Hà Mobile,phone,Loa DI Động Không Dây Sony Ult Field 5,Loa di động không dây Sony ULT FIELD 5,6490000,,https://hoanghamobile.com/loa/loa-di-dong-khong-day-sony-ult-field-5
-Hoàng Hà Mobile,phone,Loa DI Động Retro Alpha Works W99,Loa Di Động Retro Alpha Works W99 (kèm 2 Micro),8990000,11990000,https://hoanghamobile.com/loa/alpha-works-w99-retro-2-micro
-Hoàng Hà Mobile,phone,Loa Karaoke Arirang Mb2cw,Loa Karaoke Arirang MB2CW,6190000,8490000,https://hoanghamobile.com/loa/loa-karaoke-arirang-mb2cw
-Hoàng Hà Mobile,phone,M Smart Mbook 1409A,M-SMART MBOOK 1409A,2990000,4990000,https://hoanghamobile.com/laptop/laptop-m-smart-mbook-1409a
-Hoàng Hà Mobile,phone,Macbook Neo 2026 256GB,MacBook Neo 2026 8GB/256GB,18490000,19290000,https://hoanghamobile.com/laptop/macbook-neo-256gb
-Hoàng Hà Mobile,phone,Macbook Neo 2026 512GB,MacBook Neo 2026 8GB/512GB,21190000,21590000,https://hoanghamobile.com/laptop/macbook-neo-512gb
 MediaMart,phone,Masstel S7 Màu 128GB,Điện thoại Masstel S7 4GB+128GB màu vàng (Gold),2190000,,https://mediamart.vn/smartphones#27685
 MediaMart,phone,Masstel S7 Màu 128GB,Điện thoại Masstel S7 4GB+128GB màu xanh (Blue),2190000,,https://mediamart.vn/smartphones#27680
 MediaMart,phone,Masstel S7 Màu Vàng 2 190 000 2 500 000 12 128GB,Masstel S7 4GB+128GB màu vàng (Gold) 128 GB 2.190.000 ₫ 2.500.000 ₫ -12%,2190000,2500000,https://mediamart.vn/smartphones/dien-thoai-masstel-s7-4gb-128gb-gold
 MediaMart,phone,Masstel S7 Màu Xanh 2 190 000 2 500 000 12 128GB,Masstel S7 4GB+128GB màu xanh (Blue) 128 GB 2.190.000 ₫ 2.500.000 ₫ -12%,2190000,2500000,https://mediamart.vn/smartphones/dien-thoai-masstel-s7-4gb-128gb-blue
-Hoàng Hà Mobile,phone,Micro Thu ÂM CÓ Dây Maono Rgb Dgm20,Micro thu âm có dây MAONO RGB DGM20,850000,990000,https://hoanghamobile.com/mic/micro-thu-am-co-day-maono-rgb-dgm20
-Hoàng Hà Mobile,phone,Micro Thu ÂM CÓ Dây Maono Rgb Pd200x,Micro thu âm có dây MAONO RGB PD200X,1690000,1950000,https://hoanghamobile.com/mic/micro-thu-am-co-day-maono-rgb-pd200x
-Thế Giới Di Động,phone,Motorola Moto G37 Xanh Dương 64GB,Motorola Moto G37 5G 4GB/64GB Xanh dương,4190000,5190000,https://www.thegioididong.com/dtdd/motorola-g37-4gb-64gb
-Hoàng Hà Mobile,phone,Màn Hình DI Động Msi Pro Mp165 E6,Màn hình di động MSI Pro MP165 E6 (15.6 inch/FHD/IPS/60Hz/4ms/loa/USB-C),2550000,3590000,https://hoanghamobile.com/man-hinh-may-tinh/man-hinh-di-dong-msi-pro-mp165-e6
-Hoàng Hà Mobile,phone,Màn Hình Edra Egm25f180p,Màn hình EDRA EGM25F180P,2000000,2890000,https://hoanghamobile.com/man-hinh-may-tinh/man-hinh-edra-egm25f180p
-Hoàng Hà Mobile,phone,Màn Hình Gigabyte G25f2a,Màn hình Gigabyte G25F2A,3090000,3890000,https://hoanghamobile.com/man-hinh-may-tinh/man-hinh-gigabyte-g25f2a
-Hoàng Hà Mobile,phone,Màn Hình Gigabyte Gs25f2a,Màn hình Gigabyte GS25F2A,2790000,3786000,https://hoanghamobile.com/man-hinh-may-tinh/man-hinh-gigabyte-gs25f2a
-Hoàng Hà Mobile,phone,Màn Hình Msi Pro Mp242l,Màn hình MSI PRO MP242L,1750000,2249000,https://hoanghamobile.com/man-hinh-may-tinh/man-hinh-msi-pro-mp242l
-Hoàng Hà Mobile,phone,Màn Hình Msi Pro Mp243l E14,Màn hình MSI PRO MP243L E14,2100000,3190000,https://hoanghamobile.com/man-hinh-may-tinh/man-hinh-msi-pro-mp243l-e14
-Hoàng Hà Mobile,phone,Màn Hình Msi Pro Mp251 E2,Màn hình MSI PRO MP251 E2,2050000,2990000,https://hoanghamobile.com/man-hinh-may-tinh/msi-pro-mp251-e2
-Hoàng Hà Mobile,phone,Màn Hình Viewsonic Vx2479a HD Pro,Màn hình ViewSonic VX2479A-HD-Pro,2690000,3390000,https://hoanghamobile.com/man-hinh-may-tinh/man-hinh-viewsonic-vx2479a-hd-pro
-Hoàng Hà Mobile,phone,Màn Hình Vsp Ip2408sg,Màn hình VSP IP2408SG,1690000,2290000,https://hoanghamobile.com/man-hinh-may-tinh/man-hinh-vsp-ip2408sg
-Hoàng Hà Mobile,phone,Màn Hình Vsp Ip2512s1,Màn hình VSP IP2512S1,1850000,2590000,https://hoanghamobile.com/man-hinh-may-tinh/man-hinh-vsp-ip2512s1
-Hoàng Hà Mobile,phone,Máy Cạo Râu Điện Flyco Fs685vn,Máy cạo râu điện Flyco FS685VN,790000,1390000,https://hoanghamobile.com/may-cao-rau/flyco-fs685vn
-Hoàng Hà Mobile,phone,Máy Cạo Râu Điện Flyco Fs889vn,Máy cạo râu điện Flyco FS889VN,690000,,https://hoanghamobile.com/may-cao-rau/flyco-fs889vn
-Hoàng Hà Mobile,phone,Máy Cắt Tóc Flyco Fc5908vn,Máy cắt tóc Flyco FC5908VN,890000,,https://hoanghamobile.com/may-cat-toc/flyco-fc5908vn
-Hoàng Hà Mobile,phone,Máy Hút ẨM Kết Hợp Lọc Khí Sharp DW J27FV S 27L,"Máy hút ẩm kết hợp lọc khí SHARP DW-J27FV-S, 27L - 67 m2",7990000,14490000,https://hoanghamobile.com/do-gia-dung/sharp-may-hut-am-dw-j27fv-s-27l
-Hoàng Hà Mobile,phone,Máy Hút ẨM Thông Minh Lumias D6S 12L 12L,"Máy hút ẩm thông minh LUMIAS D6S-12L, 12L - 25 m²",2990000,4990000,https://hoanghamobile.com/may-hut-am/may-hut-am-thong-minh-lumias-d6s-12l
-Hoàng Hà Mobile,phone,Máy Lọc Không Khí Mova Puris P10,Máy lọc không khí Mova Puris P10,5750000,7950000,https://hoanghamobile.com/may-loc-khong-khi/mova-puris-p10
-Hoàng Hà Mobile,phone,Máy Massage Cầm Tay Fascial Gun Philips Ppm7323,Máy massage cầm tay Fascial Gun Philips PPM7323,770000,1490000,https://hoanghamobile.com/phu-kien/may-massage-cam-tay-fascial-gun-philips-ppm7323
-Hoàng Hà Mobile,phone,Máy Massage CỔ Philips Ppm3502,Máy massage cổ Philips PPM3502,1690000,2690000,https://hoanghamobile.com/may-massage/may-massage-co-philips-ppm3502
-Hoàng Hà Mobile,phone,Máy Massage ĐA Năng Philips Ppm8502,Máy massage đa năng PHILIPS PPM8502,2790000,,https://hoanghamobile.com/may-massage/philips-ppm8502
-Hoàng Hà Mobile,phone,Máy Sấy Tóc Dreame Glory Uni,Máy sấy tóc Dreame Glory Uni,2990000,,https://hoanghamobile.com/may-say-toc/dreame-glory-uni
-Hoàng Hà Mobile,phone,Máy Sấy Tóc Dreame Mini,Máy sấy tóc Dreame Mini,990000,,https://hoanghamobile.com/may-say-toc/dreame-mini
-Hoàng Hà Mobile,phone,Máy Sấy Tóc Dreame Pocket Uni,Máy sấy tóc Dreame Pocket Uni,3990000,,https://hoanghamobile.com/may-say-toc/dreame-pocket-uni
-Hoàng Hà Mobile,phone,Nhẫn Thông Minh 9FIT,Nhẫn thông minh 9Fit,1399000,1900000,https://hoanghamobile.com/phu-kien/nhan-thong-minh-9fit
+Thế Giới Di Động,phone,Motorola Moto G37 Xanh Dương 64GB,Motorola Moto G37 5G 4GB/64GB Xanh dương,3990000,5190000,https://www.thegioididong.com/dtdd/motorola-g37-4gb-64gb
 Minh Tuấn Mobile,phone,Nokia 105 Pro,Nokia 105 4G Pro,710000,750000,https://minhtuanmobile.com/nokia-105-4g-pro/
 Minh Tuấn Mobile,phone,Nokia 110 Pro,Nokia 110 4G Pro,790000,820000,https://minhtuanmobile.com/nokia-110-4g-pro/
 Minh Tuấn Mobile,phone,Nokia 220,Nokia 220 4G,950000,1000000,https://minhtuanmobile.com/nokia-220-4g/
@@ -326,33 +267,24 @@ MediaMart,phone,Oppo A6C Cph2895 Tím DM 5 390 000 6 690 000 19 128GB,Điện th
 Clickbuy,phone,Oppo Find X9 512GB,Oppo Find X9 (5G) 16GB 512GB - 1 Đổi 1 12 Tháng,23790000,26990000,https://clickbuy.com.vn/oppo-find-x9-5g-16gb-512gb.html
 Clickbuy,phone,Oppo Find X9S 256GB,Oppo Find X9s 12GB 256GB - 1 Đổi 1 12 Tháng,20290000,24990000,https://clickbuy.com.vn/oppo-find-x9s.html
 Minh Tuấn Mobile,phone,Oppo Find X9S 256GB,OPPO Find X9s 12GB 256GB,21990000,24990000,https://minhtuanmobile.com/oppo-find-x9s/
-Thế Giới Di Động,tablet,Oppo Pad 3 256GB,OPPO Pad 3 8GB/256GB,11580000,11780000,https://www.thegioididong.com/may-tinh-bang/oppo-pad-3
-Điện Máy Xanh,tablet,Oppo Pad 3 256GB,OPPO Pad 3 8GB/256GB,11580000,11780000,https://www.dienmayxanh.com/may-tinh-bang/oppo-pad-3?utm_flashsale=1
+Thế Giới Di Động,tablet,Oppo Pad 3 256GB,OPPO Pad 3 8GB/256GB,11380000,11780000,https://www.thegioididong.com/may-tinh-bang/oppo-pad-3
+Điện Máy Xanh,tablet,Oppo Pad 3 256GB,OPPO Pad 3 8GB/256GB,11380000,11780000,https://www.dienmayxanh.com/may-tinh-bang/oppo-pad-3?utm_flashsale=1
 Điện Máy Xanh,tablet,Oppo Pad 5 256GB,OPPO Pad 5 8GB/256GB,13990000,,https://www.dienmayxanh.com/may-tinh-bang/oppo-pad-5?utm_flashsale=1
 Thế Giới Di Động,tablet,Oppo Pad 5 8 256,Máy tính bảng OPPO Pad 5 Wifi 8+256 Hồng,13990000,,https://www.thegioididong.com/may-tinh-bang/oppo-pad-5-8gb-256gb
-Điện Máy Xanh,tablet,Oppo Pad Neo 128GB,OPPO Pad Neo 4G 8GB/128GB,7650000,7850000,https://www.dienmayxanh.com/may-tinh-bang/oppo-pad-neo
+Điện Máy Xanh,tablet,Oppo Pad Neo 128GB,OPPO Pad Neo 4G 8GB/128GB,7450000,7850000,https://www.dienmayxanh.com/may-tinh-bang/oppo-pad-neo
+Điện Máy Xanh,tablet,Oppo Pad SE 128GB,OPPO Pad SE WiFi 4GB/128GB,6790000,6990000,https://www.dienmayxanh.com/may-tinh-bang/oppo-pad-se-wifi-4gb-128gb
 Thế Giới Di Động,tablet,Oppo Pad SE 4 Bạc Màn Hình Nhám 128GB,Máy tính bảng OPPO Pad SE Wifi 4+128GB Bạc màn hình nhám,7290000,,https://www.thegioididong.com/may-tinh-bang/oppo-pad-se-matte-display-edition
-Điện Máy Xanh,tablet,Oppo Pad SE Màn Hình Nhám 128GB,OPPO Pad SE WiFi màn hình nhám 4GB/128GB,7290000,,https://www.dienmayxanh.com/may-tinh-bang/oppo-pad-se-matte-display-edition
 Điện Máy Xanh,phone,Oppo Reno13 Pro,OPPO Reno13 Pro 5G Xám,18650000,,https://www.dienmayxanh.com/dien-thoai/oppo-reno13-pro-5g
-Điện Máy Xanh,phone,Oppo Reno14 F 12 Xanh LÁ 256GB,OPPO Reno14 F 5G 12+256GB Xanh lá,9290000,,https://www.dienmayxanh.com/dien-thoai/oppo-reno14-f-5g-12gb-256gb
-Thế Giới Di Động,phone,Oppo Reno16 256GB,OPPO Reno16 5G 8GB/256GB,18990000,,https://www.thegioididong.com/dtdd/oppo-reno16-5g-8gb-256gb
+Điện Máy Xanh,phone,Oppo Reno14 F 12 512GB,OPPO Reno14 F 5G 12+512GB Hồng,11260000,,https://www.dienmayxanh.com/dien-thoai/oppo-reno14-f-5g-12gb-512gb
+Thế Giới Di Động,phone,Oppo Reno16 256GB,OPPO Reno16 5G 8GB/256GB,18790000,18990000,https://www.thegioididong.com/dtdd/oppo-reno16-5g-8gb-256gb
 Minh Tuấn Mobile,phone,Oppo Reno16 F 256GB,OPPO Reno16 F 5G 8GB 256GB,13990000,15990000,https://minhtuanmobile.com/oppo-reno16-f/
 Clickbuy,phone,Oppo Reno16 F 256GB,Oppo Reno16 F (5G) 8GB 256GB - 1 Đổi 1 12 Tháng,14490000,15990000,https://clickbuy.com.vn/oppo-reno16-f.html
-Thế Giới Di Động,phone,Oppo Reno16 Pro 256GB,OPPO Reno16 Pro 5G 12GB/256GB,23390000,25990000,https://www.thegioididong.com/dtdd/oppo-reno16-pro
-Thế Giới Di Động,phone,Oppo Reno16f 128GB,OPPO Reno16F 5G 8GB/128GB,13490000,14990000,https://www.thegioididong.com/dtdd/oppo-reno16f-5g-8gb-128gb
-Hoàng Hà Mobile,phone,Pin DỰ Phòng Pisen Quick,Pin dự phòng Pisen Quick - PowerLink Tiny 30W (L & C),899000,,https://hoanghamobile.com/sac-du-phong/pin-du-phong-pisen-quick-powerlink-tiny-30w-l-c
-Hoàng Hà Mobile,phone,Quạt Cầm Tay Fa53 Abs 3600MAH,Quạt Cầm Tay FA53 ABS 3600mAh,590000,915000,https://hoanghamobile.com/quat-mini/quat-cam-tay-fa53-abs-3600mah
-Thế Giới Di Động,phone,Realme 16T 128GB,realme 16T 5G 8GB/128GB Đen,9890000,10290000,https://www.thegioididong.com/dtdd/realme-16t-5g-8gb-128gb
+Thế Giới Di Động,phone,Oppo Reno16 Pro 256GB,OPPO Reno16 Pro 5G 12GB/256GB,23190000,25990000,https://www.thegioididong.com/dtdd/oppo-reno16-pro
+Thế Giới Di Động,phone,Oppo Reno16f 128GB,OPPO Reno16F 5G 8GB/128GB,13290000,14990000,https://www.thegioididong.com/dtdd/oppo-reno16f-5g-8gb-128gb
+Thế Giới Di Động,phone,Realme 16T 128GB,realme 16T 5G 8GB/128GB Đen,9590000,10290000,https://www.thegioididong.com/dtdd/realme-16t-5g-8gb-128gb
 Minh Tuấn Mobile,phone,Realme C100 128GB,Điện thoại realme C100 4G 6GB 128GB,5590000,7690000,https://minhtuanmobile.com/realme-c100-4g-6gb-128gb/
-Thế Giới Di Động,phone,Realme C100X 128GB,realme C100x 4GB/128GB Vàng,6290000,6990000,https://www.thegioididong.com/dtdd/realme-c100x-4gb-128gb
-Điện Máy Xanh,phone,Realme C71 128GB,realme C71 4GB/128GB,3920000,,https://www.dienmayxanh.com/dien-thoai/realme-c71
+Thế Giới Di Động,phone,Realme C100X 128GB,realme C100x 4GB/128GB Vàng,6090000,6990000,https://www.thegioididong.com/dtdd/realme-c100x-4gb-128gb
 Minh Tuấn Mobile,phone,Realme C85 128GB,Điện thoại realme C85 5G 8GB 128GB,5590000,8090000,https://minhtuanmobile.com/realme-c85-5g-8gb-128gb/
-Hoàng Hà Mobile,phone,Robot Hút Bụi Lau Nhà Mova E40 Ultra,Robot hút bụi lau nhà Mova E40 Ultra,9790000,11790000,https://hoanghamobile.com/robot-hut-bui/mova-e40-ultra
-Hoàng Hà Mobile,phone,Robot Hút Bụi Lau Nhà Mova P70 Pro Ultra,Robot hút bụi lau nhà Mova P70 Pro Ultra,15200000,18290000,https://hoanghamobile.com/robot-hut-bui/mova-p70-pro-ultra
-Hoàng Hà Mobile,phone,Robot Hút Bụi Lau Nhà Thông Minh Dreame D30 Ultra CE,Robot hút bụi lau nhà thông minh Dreame D30 Ultra CE - Chính hãng,10490000,14990000,https://hoanghamobile.com/robot-hut-bui/dreame-d30-ultra-ce
-Hoàng Hà Mobile,phone,Router 6 TP Link Archer Ax12,Router WiFi 6 TP-Link Archer AX12 - Chính hãng,829000,1799000,https://hoanghamobile.com/bo-phat-wifi-thiet-bi-mang-truyen-hinh-boxtv/router-wifi-6-tp-link-archer-ax12-chinh-hang
-Hoàng Hà Mobile,phone,Router 6 Totolink X2000R Băng Tần Kép Ax1500,Router Wifi 6 Totolink X2000R băng tần kép AX1500,690000,959000,https://hoanghamobile.com/phu-kien/router-wifi-6-totolink-x2000r-bang-tan-kep-ax1200
-Hoàng Hà Mobile,phone,Router TP Link Archer C54 Băng Tần Kép Ac1200,Router Wifi TP-Link Archer C54 băng tần kép AC1200 - Chính hãng,899000,,https://hoanghamobile.com/bo-phat-wifi/bo-phat-wifi-tp-link-archer-c54-bang-tan-kep-ac1200-chinh-hang
 Minh Tuấn Mobile,phone,Samsung Galaxy A07 128GB,Samsung Galaxy A07 4GB 128GB,3790000,4190000,https://minhtuanmobile.com/samsung-galaxy-a07-4gb-128gb/
 Minh Tuấn Mobile,phone,Samsung Galaxy A07 128GB,Samsung Galaxy A07 5G 4GB 128GB,4890000,5090000,https://minhtuanmobile.com/samsung-galaxy-a07-5g-4gb-128gb/
 MediaMart,phone,Samsung Galaxy A07 A075F,Samsung Galaxy A07 4G A075F (4+128G) Đen,3590000,,https://mediamart.vn/smartphones#28154
@@ -380,15 +312,12 @@ MediaMart,phone,Samsung Galaxy A08 A085F Xanh Dương,Samsung Galaxy A08 4G A085
 MediaMart,phone,Samsung Galaxy A08 A085F Xanh Dương 4 790 000 5 290 000 9 64GB,Samsung Galaxy A08 4G A085F (4+64G) Xanh dương 4 GB 64 GB 4.790.000 ₫ 5.290.000 ₫ -9%,4790000,5290000,https://mediamart.vn/smartphones/samsung-galaxy-a08-4g-a085f-4-64g-xanh-duong
 MediaMart,phone,Samsung Galaxy A08 A085F Xanh LÁ,Samsung Galaxy A08 4G A085F (4+64G) Xanh lá,4790000,,https://mediamart.vn/smartphones#30305
 MediaMart,phone,Samsung Galaxy A08 A085F Xanh LÁ 4 790 000 5 290 000 9 64GB,Samsung Galaxy A08 4G A085F (4+64G) Xanh lá 4 GB 64 GB 4.790.000 ₫ 5.290.000 ₫ -9%,4790000,5290000,https://mediamart.vn/smartphones/samsung-galaxy-a08-4g-a085f-4-64g-xanh-la
-Điện Máy Xanh,phone,Samsung Galaxy A16 256GB,Samsung Galaxy A16 8GB/256GB,5790000,,https://www.dienmayxanh.com/dien-thoai/samsung-galaxy-a16
 MediaMart,phone,Samsung Galaxy A16 A165F,Điện thoại Samsung Galaxy A16 4G A165F (4+128G) Xám,3390000,,https://mediamart.vn/smartphones#26913
 MediaMart,phone,Samsung Galaxy A16 A165F,Điện thoại Samsung Galaxy A16 4G A165F (4+128G) Đen,3390000,,https://mediamart.vn/smartphones#26915
 MediaMart,phone,Samsung Galaxy A16 A165F,Điện thoại Samsung Galaxy A16 4G A165F (4+128G) Xanh,3390000,,https://mediamart.vn/smartphones#26914
 MediaMart,phone,Samsung Galaxy A16 A165F Xám Nfc 3 390 000 5 390 000 37 128GB,Điện thoại Samsung Galaxy A16 4G A165F (4+128G) Xám 4 GB NFC 128 GB 3.390.000 ₫ 5.390.000 ₫ -37%,3390000,5390000,https://mediamart.vn/smartphones/dien-thoai-samsung-galaxy-a16-4g-a165f-4-128g-xam
 MediaMart,phone,Samsung Galaxy A16 A165F Đen Nfc 3 390 000 5 390 000 37 128GB,Điện thoại Samsung Galaxy A16 4G A165F (4+128G) Đen 4 GB NFC 128 GB 3.390.000 ₫ 5.390.000 ₫ -37%,3390000,5390000,https://mediamart.vn/smartphones/dien-thoai-samsung-galaxy-a16-4g-a165f-4-128g-den
 MediaMart,phone,Samsung Galaxy A16 Nfc 3 390 000 5 390 000 37 128GB,Samsung Galaxy A16 4G (4+128G) 4 GB NFC 128 GB 3.390.000 ₫ 5.390.000 ₫ -37%,3390000,5390000,https://mediamart.vn/smartphones/dien-thoai-samsung-galaxy-a16-4g-a165f-4-128g-xanh
-Hoàng Hà Mobile,phone,Samsung Galaxy A17 128GB,Samsung Galaxy A17 LTE 8GB/128GB,5490000,6190000,https://hoanghamobile.com/dien-thoai/samsung-galaxy-a17-lte
-Hoàng Hà Mobile,phone,Samsung Galaxy A17 128GB,Samsung Galaxy A17 5G 8GB/128GB,6690000,8790000,https://hoanghamobile.com/dien-thoai/samsung-galaxy-a17-5g
 Minh Tuấn Mobile,phone,Samsung Galaxy A17 128GB,Samsung Galaxy A17 5G 8GB 128GB,6690000,7090000,https://minhtuanmobile.com/samsung-galaxy-a17-5g-8gb-128gb/
 MediaMart,phone,Samsung Galaxy A17 A175F,Samsung Galaxy A17 4G A175F (8+128G) Đen,5190000,,https://mediamart.vn/smartphones#28149
 MediaMart,phone,Samsung Galaxy A17 A175F Xanh DM,Samsung Galaxy A17 4G A175F (8+128G) Xanh DM,5190000,,https://mediamart.vn/smartphones#28146
@@ -396,123 +325,94 @@ MediaMart,phone,Samsung Galaxy A17 A175F Xanh DM Nfc 5 190 000 6 390 000 18 128G
 MediaMart,phone,Samsung Galaxy A17 A175F Đen Nfc 5 190 000 6 390 000 18 128GB,Samsung Galaxy A17 4G A175F (8+128G) Đen 8 GB NFC 128 GB 5.190.000 ₫ 6.390.000 ₫ -18%,5190000,6390000,https://mediamart.vn/samsung-galaxy-a17-4g-a175f-8-128g-den
 Điện Máy Xanh,phone,Samsung Galaxy A17 A176B,Samsung Galaxy A17 A176B 5G (8G+256G) Đen,7490000,,https://www.dienmayxanh.com/dien-thoai/samsung-galaxy-a17-5g-8gb-256gb
 Clickbuy,phone,Samsung Galaxy A18 128GB,Samsung Galaxy A18 6GB 128GB - 1 Đổi 1 12 Tháng,6650000,6850000,https://clickbuy.com.vn/samsung-galaxy-a18.html
-Minh Tuấn Mobile,phone,Samsung Galaxy A27 128GB,Samsung Galaxy A27 5G 6GB 128GB,7990000,8490000,https://minhtuanmobile.com/samsung-galaxy-a27-5g-6gb-128gb/
-Thế Giới Di Động,phone,Samsung Galaxy A27 A276B,Samsung Galaxy A27 A276B 5G (6G+128G) Hồng,7690000,,https://www.thegioididong.com/dtdd/samsung-galaxy-a27-6gb-128gb
+Điện Máy Xanh,phone,Samsung Galaxy A26 256GB,Samsung Galaxy A26 5G 8GB/256GB,7340000,8390000,https://www.dienmayxanh.com/dien-thoai/samsung-galaxy-a26
+Minh Tuấn Mobile,phone,Samsung Galaxy A27 128GB,Samsung Galaxy A27 5G 6GB 128GB,7690000,8490000,https://minhtuanmobile.com/samsung-galaxy-a27-5g-6gb-128gb/
+Thế Giới Di Động,phone,Samsung Galaxy A27 A276B,Samsung Galaxy A27 A276B 5G (6G+128G) Hồng,7990000,,https://www.thegioididong.com/dtdd/samsung-galaxy-a27-6gb-128gb
 Clickbuy,phone,Samsung Galaxy A37 128GB,Samsung Galaxy A37 (5G) 8GB 128GB - 1 Đổi 1 12 Tháng,9050000,10790000,https://clickbuy.com.vn/samsung-galaxy-a37-5g.html
-Minh Tuấn Mobile,phone,Samsung Galaxy A37 128GB,Samsung Galaxy A37 5G 8GB 128GB,9990000,10790000,https://minhtuanmobile.com/samsung-galaxy-a37-5g-8gb-128gb/
+Minh Tuấn Mobile,phone,Samsung Galaxy A37 128GB,Samsung Galaxy A37 5G 8GB 128GB,9490000,10790000,https://minhtuanmobile.com/samsung-galaxy-a37-5g-8gb-128gb/
 Clickbuy,phone,Samsung Galaxy A56 128GB,Samsung Galaxy A56 (5G) 8GB 128GB - 1 Đổi 1 12 Tháng,8790000,9810000,https://clickbuy.com.vn/samsung-galaxy-a56-5g-chinh-hang.html
-Điện Máy Xanh,phone,Samsung Galaxy A56 256GB,Samsung Galaxy A56 5G 8GB/256GB,10790000,,https://www.dienmayxanh.com/dien-thoai/samsung-galaxy-a56-8gb-256gb
 Clickbuy,phone,Samsung Galaxy A57 128GB,Samsung Galaxy A57 (5G) 8GB 128GB - 1 Đổi 1 12 Tháng,10190000,12490000,https://clickbuy.com.vn/samsung-galaxy-a57-5g.html
 Minh Tuấn Mobile,phone,Samsung Galaxy A57 128GB,Samsung Galaxy A57 5G 8GB 128GB,11290000,12490000,https://minhtuanmobile.com/samsung-galaxy-a57-5g-8gb-128gb/
-Hoàng Hà Mobile,phone,Samsung Galaxy A57 128GB,Samsung Galaxy A57 5G - 8GB/128GB,11390000,12490000,https://hoanghamobile.com/dien-thoai/samsung-galaxy-a57
-Thế Giới Di Động,phone,Samsung Galaxy A57 A576B,Samsung Galaxy A57 (5G) A576B (12G+256G) Xám,13990000,,https://www.thegioididong.com/dtdd/samsung-galaxy-a57-12gb-256gb
+Thế Giới Di Động,phone,Samsung Galaxy A57 A576B,Samsung Galaxy A57 (5G) A576B (12G+256G) Xám,13790000,,https://www.thegioididong.com/dtdd/samsung-galaxy-a57-12gb-256gb
 Clickbuy,phone,Samsung Galaxy S25 FE 128GB,Samsung Galaxy S25 FE (5G) 8GB 128GB - 1 Đổi 1 12 Tháng,13090000,16690000,https://clickbuy.com.vn/samsung-galaxy-s25-fe.html
 Clickbuy,phone,Samsung Galaxy S25 Ultra 256GB,Samsung Galaxy S25 Ultra (5G) 12GB 256GB - 1 đổi 1 12 tháng,24790000,33380000,https://clickbuy.com.vn/samsung-galaxy-s25-ultra.html
-Hoàng Hà Mobile,phone,Samsung Galaxy S25 Ultra 256GB,Samsung Galaxy S25 Ultra - 12GB/256GB,25678000,33990000,https://hoanghamobile.com/dien-thoai/samsung-galaxy-s25-ultra
+Hoàng Hà Mobile,phone,Samsung Galaxy S25 Ultra 256GB,Samsung Galaxy S25 Ultra - 12GB/256GB,25184000,33990000,https://hoanghamobile.com/dien-thoai/samsung-galaxy-s25-ultra
 Clickbuy,phone,Samsung Galaxy S26 FE 128GB,Samsung Galaxy S26 FE 8GB 128GB - 1 Đổi 1 12 Tháng,15990000,20990000,https://clickbuy.com.vn/samsung-galaxy-s26-fe.html
-Hoàng Hà Mobile,phone,Samsung Galaxy S26 FE 128GB,Samsung Galaxy S26 FE 5G 8GB/128GB,16490000,18990000,https://hoanghamobile.com/dien-thoai/samsung-galaxy-s26-fe
-Minh Tuấn Mobile,phone,Samsung Galaxy S26 Plus 256GB,Samsung Galaxy S26 Plus 12GB 256GB,24990000,29990000,https://minhtuanmobile.com/samsung-galaxy-s26-plus/
+Minh Tuấn Mobile,phone,Samsung Galaxy S26 Plus 256GB,Samsung Galaxy S26 Plus 12GB 256GB,23990000,29990000,https://minhtuanmobile.com/samsung-galaxy-s26-plus/
 24hStore,phone,Samsung Galaxy S26 Ultra 1TB,Samsung Galaxy S26 Ultra 1TB Chính Hãng,39090000,51990000,https://24hstore.vn/galaxy-s26-series/samsung-galaxy-s26-ultra-1tb-p12094
+Minh Tuấn Mobile,phone,Samsung Galaxy S26 Ultra 256GB,Samsung Galaxy S26 Ultra 12GB 256GB,28990000,36990000,https://minhtuanmobile.com/samsung-galaxy-s26-ultra/
 Clickbuy,phone,Samsung Galaxy S26 Ultra 256GB,Samsung Galaxy S26 Ultra (5G) 12GB 256GB - 1 đổi 1 12 tháng,29790000,36990000,https://clickbuy.com.vn/samsung-galaxy-s26-ultra.html
-Minh Tuấn Mobile,phone,Samsung Galaxy S26 Ultra 256GB,Samsung Galaxy S26 Ultra 12GB 256GB,30990000,36990000,https://minhtuanmobile.com/samsung-galaxy-s26-ultra/
-Thế Giới Di Động,phone,Samsung Galaxy S26 Ultra S948B Xanh Dương,Samsung Galaxy S26 Ultra S948B (12G+256G) Xanh dương,29790000,,https://www.thegioididong.com/dtdd/samsung-galaxy-s26-ultra-12gb-256gb
-Điện Máy Xanh,tablet,Samsung Galaxy Tab A11 128GB,Samsung Galaxy Tab A11+ WiFi 6GB/128GB,6990000,7590000,https://www.dienmayxanh.com/may-tinh-bang/samsung-galaxy-tab-a11-plus-wifi-6gb-128gb?utm_flashsale=1
-Điện Máy Xanh,tablet,Samsung Galaxy Tab A11 128GB,Samsung Galaxy Tab A11+ 5G 6GB/128GB,8140000,8890000,https://www.dienmayxanh.com/may-tinh-bang/samsung-galaxy-tab-a11-plus-5g-6gb-128gb
-CellphoneS,tablet,Samsung Galaxy Tab A11 64GB,Samsung Galaxy Tab A11 Wifi 4GB 64GB,3590000,4390000,https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-a11-wifi.html
+Thế Giới Di Động,phone,Samsung Galaxy S26 Ultra S948B Xanh Dương,Samsung Galaxy S26 Ultra S948B (12G+256G) Xanh dương,30790000,,https://www.thegioididong.com/dtdd/samsung-galaxy-s26-ultra-12gb-256gb
+Điện Máy Xanh,tablet,Samsung Galaxy Tab A11 128GB,Samsung Galaxy Tab A11+ WiFi 6GB/128GB,6790000,7590000,https://www.dienmayxanh.com/may-tinh-bang/samsung-galaxy-tab-a11-plus-wifi-6gb-128gb?utm_flashsale=1
+Điện Máy Xanh,tablet,Samsung Galaxy Tab A11 128GB,Samsung Galaxy Tab A11+ 5G 6GB/128GB,8390000,8890000,https://www.dienmayxanh.com/may-tinh-bang/samsung-galaxy-tab-a11-plus-5g-6gb-128gb
+CellphoneS,tablet,Samsung Galaxy Tab A11 64GB,Samsung Galaxy Tab A11 Wifi 4GB 64GB,3690000,4390000,https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-a11-wifi.html
 Minh Tuấn Mobile,tablet,Samsung Galaxy Tab A11 64GB,Samsung Galaxy Tab A11 Wifi 4GB 64GB,3690000,4390000,https://minhtuanmobile.com/samsung-galaxy-tab-a11-wifi-4gb-64gb/
-Điện Máy Xanh,tablet,Samsung Galaxy Tab A11 64GB,Samsung Galaxy Tab A11 4G 4GB/64GB,4590000,5490000,https://www.dienmayxanh.com/may-tinh-bang/samsung-galaxy-tab-a11-4g-4gb-64gb
-CellphoneS,tablet,Samsung Galaxy Tab A11 64GB,Samsung Galaxy Tab A11 4GB 64GB,4590000,5490000,https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-a11-4gb-64gb.html
+Điện Máy Xanh,tablet,Samsung Galaxy Tab A11 64GB,Samsung Galaxy Tab A11 4G 4GB/64GB,4690000,5490000,https://www.dienmayxanh.com/may-tinh-bang/samsung-galaxy-tab-a11-4g-4gb-64gb
 Minh Tuấn Mobile,tablet,Samsung Galaxy Tab A11 64GB,Samsung Galaxy Tab A11 LTE 4GB 64GB,4690000,5490000,https://minhtuanmobile.com/samsung-galaxy-tab-a11-lte-4gb-64gb/
 Minh Tuấn Mobile,tablet,Samsung Galaxy Tab A11 Plus 128GB,Samsung Galaxy Tab A11 Plus 5G 6GB 128GB,7990000,8890000,https://minhtuanmobile.com/samsung-galaxy-tab-a11-plus-5g-6gb-128gb/
 Minh Tuấn Mobile,tablet,Samsung Galaxy Tab A11 Plus 256GB,Samsung Galaxy Tab A11 Plus Wifi 8GB 256GB,8290000,9390000,https://minhtuanmobile.com/samsung-galaxy-tab-a11-plus-wifi-8gb-256gb/
 MediaMart,tablet,Samsung Galaxy Tab A11 X133N,Samsung Galaxy Tab A11 Wifi (4GB+64G) X133N Xám,3690000,,https://mediamart.vn/may-tinh-bang#28600
 MediaMart,tablet,Samsung Galaxy Tab A11 X133N Xám 3 690 000 4 890 000 24 64GB,Samsung Galaxy Tab A11 Wifi (4GB+64G) X133N Xám 64 GB 4 GB 3.690.000 ₫ 4.890.000 ₫ -24%,3690000,4890000,https://mediamart.vn/may-tinh-bang/samsung-galaxy-tab-a11-wifi-4gb-64g-x133n-xam
-Thế Giới Di Động,tablet,Samsung Galaxy Tab A11 X135 128GB,Samsung Galaxy Tab A11 4G X135 128GB Bạc,6390000,,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-a11-4g-8gb-128gb
+Thế Giới Di Động,tablet,Samsung Galaxy Tab A11 X135 128GB,Samsung Galaxy Tab A11 4G X135 128GB Bạc,6590000,,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-a11-4g-8gb-128gb
 MediaMart,tablet,Samsung Galaxy Tab A11 X135G,Samsung Galaxy Tab A11 4G (4GB+64G) X135G Xám,4990000,,https://mediamart.vn/may-tinh-bang#28603
 MediaMart,tablet,Samsung Galaxy Tab A11 X135G Xám 4 990 000 5 990 000 16 64GB,Samsung Galaxy Tab A11 4G (4GB+64G) X135G Xám 64 GB 4 GB 4.990.000 ₫ 5.990.000 ₫ -16%,4990000,5990000,https://mediamart.vn/may-tinh-bang/samsung-galaxy-tab-a11-4g-4gb-64g-x135g-xam
-Thế Giới Di Động,tablet,Samsung Galaxy Tab A11 X230 128GB,Samsung Galaxy Tab A11+ Wifi X230 128GB Bạc,6590000,,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-a11-plus-wifi-6gb-128gb
+Thế Giới Di Động,tablet,Samsung Galaxy Tab A11 X230 128GB,Samsung Galaxy Tab A11+ Wifi X230 128GB Bạc,6790000,,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-a11-plus-wifi-6gb-128gb
 Thế Giới Di Động,tablet,Samsung Galaxy Tab A11 X236B 256GB,Samsung Galaxy Tab A11+ 5G X236B 256GB Bạc,9190000,,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-a11-plus-5g-8gb-256gb
-CellphoneS,tablet,Samsung Galaxy Tab S10 FE 128GB,Samsung Galaxy Tab S10 FE Wifi 8GB 128GB,11290000,13690000,https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-s10-fe-wifi.html
+CellphoneS,tablet,Samsung Galaxy Tab S10 FE 128GB,Samsung Galaxy Tab S10 FE Wifi 8GB 128GB,11090000,13690000,https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-s10-fe-wifi.html
 Minh Tuấn Mobile,tablet,Samsung Galaxy Tab S10 FE 128GB,Samsung Galaxy Tab S10 FE Wifi 8GB 128GB,11290000,13690000,https://minhtuanmobile.com/samsung-galaxy-tab-s10-fe-wifi-8gb-128gb/
-Thế Giới Di Động,tablet,Samsung Galaxy Tab S10 FE 128GB,Samsung Galaxy Tab S10 FE+ WiFi 8GB/128GB,14490000,17490000,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s10-fe-plus
-Điện Máy Xanh,tablet,Samsung Galaxy Tab S10 FE 128GB,Samsung Galaxy Tab S10 FE+ WiFi 8GB/128GB,14490000,17490000,https://www.dienmayxanh.com/may-tinh-bang/samsung-galaxy-tab-s10-fe-plus
-CellphoneS,tablet,Samsung Galaxy Tab S10 FE 256GB,Samsung Galaxy Tab S10 FE Wifi 12GB 256GB,13990000,16690000,https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-s10-fe-wifi-12gb-256gb.html
-CellphoneS,tablet,Samsung Galaxy Tab S10 Lite 128GB,Samsung Galaxy Tab S10 Lite Wifi 6GB 128GB,8490000,9990000,https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-s10-lite-wifi.html
-Thế Giới Di Động,tablet,Samsung Galaxy Tab S10 Lite 128GB,Samsung Galaxy Tab S10 Lite 5G 6GB/128GB,10490000,11490000,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s10-lite-5g-6gb-128gb
-Điện Máy Xanh,tablet,Samsung Galaxy Tab S10 Lite 128GB,Samsung Galaxy Tab S10 Lite 5G 6GB/128GB,10490000,11490000,https://www.dienmayxanh.com/may-tinh-bang/samsung-galaxy-tab-s10-lite-5g-6gb-128gb?utm_flashsale=1
-Điện Máy Xanh,tablet,Samsung Galaxy Tab S11 128GB,Samsung Galaxy Tab S11 5G 12GB/128GB,20660000,28490000,https://www.dienmayxanh.com/may-tinh-bang/samsung-galaxy-tab-s11-5g-12gb-128gb
-Thế Giới Di Động,tablet,Samsung Galaxy Tab S11 256GB,Samsung Galaxy Tab S11 5G 12GB/256GB,22590000,31990000,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s11-5g-12gb-256gb
+Thế Giới Di Động,tablet,Samsung Galaxy Tab S10 FE 128GB,Samsung Galaxy Tab S10 FE+ WiFi 8GB/128GB,14290000,17490000,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s10-fe-plus
+Điện Máy Xanh,tablet,Samsung Galaxy Tab S10 FE 128GB,Samsung Galaxy Tab S10 FE+ WiFi 8GB/128GB,14290000,17490000,https://www.dienmayxanh.com/may-tinh-bang/samsung-galaxy-tab-s10-fe-plus
+CellphoneS,tablet,Samsung Galaxy Tab S10 FE 256GB,Samsung Galaxy Tab S10 FE Wifi 12GB 256GB,12820000,16690000,https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-s10-fe-wifi-12gb-256gb.html
+CellphoneS,tablet,Samsung Galaxy Tab S10 Lite 128GB,Samsung Galaxy Tab S10 Lite Wifi 6GB 128GB,8790000,9990000,https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-s10-lite-wifi.html
+Thế Giới Di Động,tablet,Samsung Galaxy Tab S10 Lite 128GB,Samsung Galaxy Tab S10 Lite 5G 6GB/128GB,10290000,11490000,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s10-lite-5g-6gb-128gb
+Điện Máy Xanh,tablet,Samsung Galaxy Tab S10 Lite 128GB,Samsung Galaxy Tab S10 Lite 5G 6GB/128GB,10290000,11490000,https://www.dienmayxanh.com/may-tinh-bang/samsung-galaxy-tab-s10-lite-5g-6gb-128gb?utm_flashsale=1
+CellphoneS,tablet,Samsung Galaxy Tab S11 128GB,Samsung Galaxy Tab S11 Wifi 12GB 128GB,19490000,22490000,https://cellphones.com.vn/may-tinh-bang-samsung-galaxy-tab-s11-wifi.html
+Điện Máy Xanh,tablet,Samsung Galaxy Tab S11 128GB,Samsung Galaxy Tab S11 5G 12GB/128GB,21290000,28490000,https://www.dienmayxanh.com/may-tinh-bang/samsung-galaxy-tab-s11-5g-12gb-128gb
+Thế Giới Di Động,tablet,Samsung Galaxy Tab S11 256GB,Samsung Galaxy Tab S11 5G 12GB/256GB,23990000,31990000,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s11-5g-12gb-256gb
 Di Động Thông Minh,tablet,Samsung Galaxy Tab S9 FE 128GB,Samsung Galaxy Tab S9 FE WIFI 6GB/128GB Chính hãng,7590000,8190000,https://didongthongminh.vn/samsung-galaxy-tab-s9-fe-wifi-6gb-128gb-chinh-hang
-Điện Máy Xanh,phone,Samsung Galaxy Z Flip7 FE F761B 128GB,Samsung Galaxy Z Flip7 FE F761B (8G+128GB) Trắng,17990000,,https://www.dienmayxanh.com/dien-thoai/samsung-galaxy-z-flip7-fe
+Điện Máy Xanh,phone,Samsung Galaxy Z Flip7 FE F761B 128GB,Samsung Galaxy Z Flip7 FE F761B (8G+128GB) Trắng,15290000,,https://www.dienmayxanh.com/dien-thoai/samsung-galaxy-z-flip7-fe
+Di Động Việt,phone,Samsung Galaxy Z Flip8 256GB,Samsung Galaxy Z Flip8 256GB Chính Hãng,26990000,31990000,https://didongviet.vn/dien-thoai/samsung-galaxy-z-flip8.html?sku=CMH1050S1382-PK-DDVNew
 Hoàng Hà Mobile,phone,Samsung Galaxy Z Fold7 256GB,Samsung Galaxy Z Fold7 5G 12GB/256GB,37534000,46990000,https://hoanghamobile.com/dien-thoai/samsung-galaxy-z-fold7
 24hStore,phone,Samsung Galaxy Z Fold7 Chính 256GB,Samsung Galaxy Z Fold7 5G 12GB/256GB Chính...,37290000,46990000,https://24hstore.vn/galaxy-z7-series/samsung-galaxy-z-fold7-5g-256gb-p11526
 24hStore,phone,Samsung Galaxy Z Fold7 Chính 512GB,Samsung Galaxy Z Fold7 5G 12GB/512GB Chính...,40090000,50990000,https://24hstore.vn/galaxy-z7-series/samsung-galaxy-z-fold7-5g-512gb-p11527
+Di Động Việt,phone,Samsung Galaxy Z Fold8 256GB,Samsung Galaxy Z Fold8 256GB Chính Hãng,39190000,46990000,https://didongviet.vn/dien-thoai/samsung-galaxy-z-fold8.html?sku=CMH1049S1381-Graphite-DDVNew
+Di Động Việt,phone,Samsung Galaxy Z Fold8 512GB,Samsung Galaxy Z Fold8 512GB Chính Hãng,46990000,52990000,https://didongviet.vn/dien-thoai/samsung-galaxy-z-fold8-512gb.html?sku=CMH1053S1385-PP-DDVNew
 24hStore,phone,Samsung Galaxy Z Fold8 Chính 256GB,Samsung Galaxy Z Fold8 5G 12GB/256GB Chính...,37590000,46990000,https://24hstore.vn/galaxy-z8-series/samsung-galaxy-z-fold8-5g-12gb-256gb-p12534
 24hStore,phone,Samsung Galaxy Z Fold8 Chính 512GB,Samsung Galaxy Z Fold8 5G 12GB/512GB Chính...,44490000,52990000,https://24hstore.vn/galaxy-z8-series/samsung-galaxy-z-fold8-5g-12gb-512gb-p12535
 24hStore,phone,Samsung Galaxy Z Fold8 Ultra 256GB,Samsung Galaxy Z Fold8 Ultra 5G 12GB/256GB...,44390000,52990000,https://24hstore.vn/galaxy-z8-series/samsung-galaxy-z-fold8-ultra-5g-12gb-256gb-p12536
+Di Động Việt,phone,Samsung Galaxy Z Fold8 Ultra 256GB,Samsung Galaxy Z Fold8 Ultra 256GB Chính Hãng,46990000,52990000,https://didongviet.vn/dien-thoai/samsung-galaxy-z-fold8-ultra.html?sku=CMH1056S1388-Kem-DDVNew
 24hStore,phone,Samsung Galaxy Z Fold8 Ultra 512GB,Samsung Galaxy Z Fold8 Ultra 5G 12GB/512GB...,49490000,58990000,https://24hstore.vn/galaxy-z8-series/samsung-galaxy-z-fold8-ultra-5g-12gb-512gb-p12537
-Hoàng Hà Mobile,phone,Samsung Màn Hình Samsung Ls27d300gaexxv,Màn hình Samsung LS27D300GAEXXV,2570000,3190000,https://hoanghamobile.com/man-hinh-may-tinh/man-hinh-samsung-ls27d300gaexxv
-Hoàng Hà Mobile,phone,Samsung Màn Hình Samsung Odyssey G3 G30D Ls27dg302eexxv,Màn hình Samsung Odyssey G3 G30D LS27DG302EEXXV,2950000,3990000,https://hoanghamobile.com/man-hinh-may-tinh/man-hinh-samsung-odyssey-g3-g30d-ls27dg302eexxv
-Hoàng Hà Mobile,phone,Tecno Pova Curve 2 128GB,TECNO POVA CURVE 2 5G (8+8GB/128GB),8390000,10990000,https://hoanghamobile.com/dien-thoai/tecno-pova-curve-2-5g
-Hoàng Hà Mobile,phone,Tecno Spark 50 128GB,TECNO SPARK 50 (4+4GB/128GB),4290000,4990000,https://hoanghamobile.com/dien-thoai/tecno-spark-50
-Hoàng Hà Mobile,phone,Tecno Spark GO 3 64GB,TECNO SPARK Go 3 4GB+4GB/64GB,3490000,3690000,https://hoanghamobile.com/dien-thoai/tecno-spark-go-3
-Hoàng Hà Mobile,phone,Túi Chống Sốc Innostyle Ommiprotect Slim Laptop Macbook 13 Inches S112,Túi chống sốc Innostyle OmmiProtect Slim Laptop/Macbook 13 inches S112,600000,,https://hoanghamobile.com/tui-xach/tui-chong-soc-innostyle-ommiprotect-slim-laptop-macbook-13-inches-s112
-Hoàng Hà Mobile,phone,Túi Chống Sốc Túi Phụ Kiện Innostyle Guardiantech Mac Lap 14 GT C21BLK 14,"Túi chống sốc, túi phụ kiện Innostyle GuardianTech Mac/Lap 14"" GT-C21BLK-14",550000,699000,https://hoanghamobile.com/tui-xach/tui-chong-soc-tui-phu-kien-innostyle-guardiantech-mac-lap-14-gt-c21blk-14
-Hoàng Hà Mobile,phone,Túi Xách Innostyle Ommiprotect Carry Laptop Macbook Air Pro 13 S114,"Túi xách Innostyle OmmiProtect Carry Laptop/Macbook Air/Pro 13"" S114",590000,790000,https://hoanghamobile.com/tui-xach/tui-xach-innostyle-ommiprotect-carry-laptop-macbook-air-pro-13-s114
-Hoàng Hà Mobile,phone,Viettel T2,Điện thoại Viettel T2 - 4G (DÙNG MỌI LOẠI SIM),690000,,https://hoanghamobile.com/dien-thoai/viettel-t2-4g
-Hoàng Hà Mobile,phone,Vivo Laptop Asus Vivobook 14 X1407CA Ly203w,Laptop ASUS Vivobook 14 X1407CA-LY203W,23490000,33490000,https://hoanghamobile.com/laptop/asus-vivobook-14-x1407ca-ly203w
-Hoàng Hà Mobile,phone,Vivo Laptop Asus Vivobook X1404VA Eb355w,Laptop ASUS Vivobook X1404VA-EB355W,22690000,23990000,https://hoanghamobile.com/laptop/laptop-asus-vivobook-x1404va-eb355w
-Điện Máy Xanh,phone,Vivo V50 Lite 256GB,vivo V50 Lite 5G 8GB/256GB,8810000,9810000,https://www.dienmayxanh.com/dien-thoai/vivo-v50-lite-5g
-Điện Máy Xanh,phone,Vivo V60 256GB,vivo V60 5G (12+256GB) Xám,15490000,,https://www.dienmayxanh.com/dien-thoai/vivo-v60-12gb-256gb
-Thế Giới Di Động,phone,Vivo X300 Ultra 512GB,Vivo X300 Ultra 16GB/512GB,37990000,49990000,https://www.thegioididong.com/dtdd/vivo-x300-ultra
-Điện Máy Xanh,phone,Vivo Y39 128GB,vivo Y39 5G (8+128GB) Tím,7160000,,https://www.dienmayxanh.com/dien-thoai/vivo-y39-5g
-Thế Giới Di Động,phone,Xiaomi 17 256GB,Xiaomi 17 5G 12GB/256GB,19490000,26990000,https://www.thegioididong.com/dtdd/xiaomi-17
-Thế Giới Di Động,phone,Xiaomi 17T 256GB,Xiaomi 17T 5G 12GB/256GB,16190000,20090000,https://www.thegioididong.com/dtdd/xiaomi-17t-5g-12gb-256gb
-Hoàng Hà Mobile,phone,Xiaomi LÒ VI Sóng Xiaomi Microwave Oven,Lò vi sóng Xiaomi Microwave Oven - Chính hãng,2190000,,https://hoanghamobile.com/lo-vi-song/lo-vi-song-xiaomi-microwave-oven-chinh-hang
-Hoàng Hà Mobile,phone,Xiaomi Màn Hình Xiaomi Gaming G24I,Màn hình Xiaomi Gaming G24i (ELA5625EU),2440000,3490000,https://hoanghamobile.com/man-hinh-may-tinh/man-hinh-xiaomi-gaming-g24i-ela5625eu
-Hoàng Hà Mobile,phone,Xiaomi Máy Hút ẨM Xiaomi Smart Dehumidifier Bhr8121th 22L,"Máy hút ẩm Xiaomi Smart Dehumidifier BHR8121TH, 22L - 45 m2",6190000,9990000,https://hoanghamobile.com/may-hut-am/may-hut-am-xiaomi-smart-dehumidifier
-Hoàng Hà Mobile,phone,Xiaomi Máy Lọc Không Khí Xiaomi Air Purifier 4 Compact,Máy lọc không khí Xiaomi Air Purifier 4 Compact - Chính hãng,1890000,2590000,https://hoanghamobile.com/may-loc-khong-khi/may-loc-khong-khi-xiaomi-air-purifier-4-compact-chinh-hang
-Hoàng Hà Mobile,phone,Xiaomi Máy Lọc Không Khí Xiaomi Air Purifier 4 Lite,Máy lọc không khí Xiaomi Air Purifier 4 Lite - Chính hãng,2790000,3990000,https://hoanghamobile.com/may-loc-khong-khi/may-loc-khong-khi-xiaomi-air-purifier-4-lite-chinh-hang
-Hoàng Hà Mobile,phone,Xiaomi Nồi Chiên Không Dầu Xiaomi Smart Air Fryer 6 5L,Nồi chiên không dầu Xiaomi Smart Air Fryer 6.5L - Chính hãng,2940000,2990000,https://hoanghamobile.com/noi-chien-khong-dau/noi-chien-khong-dau-xiaomi-smart-air-fryer-6-5l-chinh-hang
+Di Động Việt,phone,Samsung Galaxy Z Fold8 Ultra 512GB,Samsung Galaxy Z Fold8 Ultra 512GB Chính Hãng,51990000,58990000,https://didongviet.vn/dien-thoai/samsung-galaxy-z-fold8-ultra-512gb.html?sku=CMH1052S1384-Graphite-DDVNew
+CellphoneS,tablet,Teclast P30 128GB,Máy tính bảng Teclast Wifi P30 4GB 128GB,2840000,2990000,https://cellphones.com.vn/may-tinh-bang-teclast-p30-wifi.html
+CellphoneS,tablet,Teclast T50 Plus 256GB,Máy tính bảng Teclast T50 Plus 6GB 256GB,4360000,5390000,https://cellphones.com.vn/may-tinh-bang-teclast-t50-plus.html
+Điện Máy Xanh,phone,Vivo V60 256GB,vivo V60 5G (12+256GB) Xám,14990000,,https://www.dienmayxanh.com/dien-thoai/vivo-v60-12gb-256gb
+Thế Giới Di Động,phone,Vivo X300 Ultra 512GB,Vivo X300 Ultra 16GB/512GB,35990000,49990000,https://www.thegioididong.com/dtdd/vivo-x300-ultra
+Điện Máy Xanh,phone,Vivo Y39 128GB,vivo Y39 5G (8+128GB) Tím,6790000,,https://www.dienmayxanh.com/dien-thoai/vivo-y39-5g
+Thế Giới Di Động,phone,Xiaomi 17 256GB,Xiaomi 17 5G 12GB/256GB,19290000,26990000,https://www.thegioididong.com/dtdd/xiaomi-17
+Thế Giới Di Động,phone,Xiaomi 17T 256GB,Xiaomi 17T 5G 12GB/256GB,15990000,20090000,https://www.thegioididong.com/dtdd/xiaomi-17t-5g-12gb-256gb
 Di Động Thông Minh,tablet,Xiaomi Pad 6 Màn Hình 11 2 8K 128GB,"Xiaomi Pad 6 6GB/128GB Màn hình 11"" 2.8K",6390000,9990000,https://didongthongminh.vn/xiaomi-pad-6-6gb-128gb
 Di Động Thông Minh,tablet,Xiaomi Pad 6 Pro 256GB,Xiaomi Pad 6 Pro 8GB/256GB,8690000,11990000,https://didongthongminh.vn/xiaomi-pad-6-pro-8gb
 Di Động Thông Minh,tablet,Xiaomi Pad 6 Pro 256GB,Xiaomi Pad 6 Pro 12GB/256GB,9890000,12990000,https://didongthongminh.vn/xiaomi-pad-6-pro-12gb
 Di Động Thông Minh,tablet,Xiaomi Pad 6 Pro Giá RẺ 128GB,Xiaomi Pad 6 Pro 8GB/128GB giá rẻ,7690000,10990000,https://didongthongminh.vn/xiaomi-pad-6-pro
-Điện Máy Xanh,tablet,Xiaomi Pad 8 256GB,Xiaomi Pad 8 8GB/256GB,13390000,14490000,https://www.dienmayxanh.com/may-tinh-bang/xiaomi-pad-8-8gb-256gb?utm_flashsale=1
-CellphoneS,tablet,Xiaomi Pad 8 Pro 128GB,Xiaomi Pad 8 Pro 8GB 128GB,14990000,16990000,https://cellphones.com.vn/may-tinh-bang-xiaomi-pad-8-pro-8gb-128gb.html
-Thế Giới Di Động,tablet,Xiaomi Pad 8 Pro 256GB,Xiaomi Pad 8 Pro 8GB/256GB,17990000,,https://www.thegioididong.com/may-tinh-bang/xiaomi-pad-8-pro-8gb-256gb
-Điện Máy Xanh,tablet,Xiaomi Pad 8 Pro 256GB,Xiaomi Pad 8 Pro 8GB/256GB,17990000,,https://www.dienmayxanh.com/may-tinh-bang/xiaomi-pad-8-pro-8gb-256gb?utm_flashsale=1
-Thế Giới Di Động,tablet,Xiaomi Pad 8 Xanh LÁ,Xiaomi Pad 8 (8+256G) Xanh lá,13390000,,https://www.thegioididong.com/may-tinh-bang/xiaomi-pad-8-8gb-256gb
+Điện Máy Xanh,tablet,Xiaomi Pad 8 256GB,Xiaomi Pad 8 8GB/256GB,13190000,14490000,https://www.dienmayxanh.com/may-tinh-bang/xiaomi-pad-8-8gb-256gb?utm_flashsale=1
+CellphoneS,tablet,Xiaomi Pad 8 Pro 128GB,Xiaomi Pad 8 Pro 8GB 128GB,13990000,16990000,https://cellphones.com.vn/may-tinh-bang-xiaomi-pad-8-pro-8gb-128gb.html
+Thế Giới Di Động,tablet,Xiaomi Pad 8 Pro 256GB,Xiaomi Pad 8 Pro 8GB/256GB,17790000,17990000,https://www.thegioididong.com/may-tinh-bang/xiaomi-pad-8-pro-8gb-256gb
+Điện Máy Xanh,tablet,Xiaomi Pad 8 Pro 256GB,Xiaomi Pad 8 Pro 8GB/256GB,17790000,17990000,https://www.dienmayxanh.com/may-tinh-bang/xiaomi-pad-8-pro-8gb-256gb?utm_flashsale=1
+Thế Giới Di Động,tablet,Xiaomi Pad 8 Xanh LÁ,Xiaomi Pad 8 (8+256G) Xanh lá,13190000,,https://www.thegioididong.com/may-tinh-bang/xiaomi-pad-8-8gb-256gb
 Điện Máy Xanh,phone,Xiaomi Poco C95 Pro Xanh LÁ,Xiaomi POCO C95 Pro (6+128G) Xanh lá,5890000,,https://www.dienmayxanh.com/dien-thoai/xiaomi-poco-c95-pro-6gb-128gb
-Hoàng Hà Mobile,phone,Xiaomi Poco M7 128GB,Xiaomi POCO M7 6GB/128GB,4290000,5590000,https://hoanghamobile.com/dien-thoai/dien-thoai-xiaomi-poco-m7-6gb-128gb
-CellphoneS,tablet,Xiaomi Poco Pad M1 256GB,Xiaomi Poco Pad M1 Wifi 8GB 256GB,8290000,8990000,https://cellphones.com.vn/may-tinh-bang-xiaomi-poco-pad-m1.html
-CellphoneS,tablet,Xiaomi Poco Pad X1 512GB,Xiaomi Poco Pad X1 8GB 512GB,9990000,11290000,https://cellphones.com.vn/may-tinh-bang-xiaomi-poco-pad-x1.html
-Điện Máy Xanh,phone,Xiaomi Redmi 15,Xiaomi Redmi 15 (6+128G) Đen,4590000,,https://www.dienmayxanh.com/dien-thoai/xiaomi-redmi-15-6gb-128gb
+CellphoneS,tablet,Xiaomi Poco Pad X1 512GB,Xiaomi Poco Pad X1 8GB 512GB,10290000,11290000,https://cellphones.com.vn/may-tinh-bang-xiaomi-poco-pad-x1.html
+Điện Máy Xanh,phone,Xiaomi Redmi 15 128GB,Xiaomi Redmi 15 6GB/128GB,2130000,4790000,https://www.dienmayxanh.com/dien-thoai/xiaomi-redmi-15-6gb-128gb
 Minh Tuấn Mobile,phone,Xiaomi Redmi 15 128GB,Điện thoại Xiaomi Redmi 15 5G 4GB 128GB,4490000,5690000,https://minhtuanmobile.com/xiaomi-redmi-15-5g-4gb-128gb/
-Hoàng Hà Mobile,phone,Xiaomi Redmi 17 256GB,Xiaomi Redmi 17 4G 6GB/256GB,6490000,7490000,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-17-4g
-Hoàng Hà Mobile,phone,Xiaomi Redmi A7 Pro 128GB,Xiaomi Redmi A7 Pro 4GB/128GB (NFC),4090000,4990000,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-a7-pro
 Minh Tuấn Mobile,phone,Xiaomi Redmi Note 15 128GB,Điện thoại Xiaomi Redmi Note 15 6GB 128GB,4990000,5990000,https://minhtuanmobile.com/xiaomi-redmi-note-15-6gb-128gb/
 Clickbuy,phone,Xiaomi Redmi Note 15 128GB,Xiaomi Redmi Note 15 (4G) 6GB 128GB - 1 Đổi 1 12 Tháng,4990000,5990000,https://clickbuy.com.vn/xiaomi-redmi-note-15-4g.html
 Clickbuy,phone,Xiaomi Redmi Note 15 128GB,Xiaomi Redmi Note 15 (5G) 6GB 128GB - 1 Đổi 1 12 Tháng,5990000,7490000,https://clickbuy.com.vn/xiaomi-redmi-note-15-5g.html
 Minh Tuấn Mobile,phone,Xiaomi Redmi Note 15 Pro 256GB,Điện thoại Xiaomi Redmi Note 15 Pro 12GB 256GB,7990000,10090000,https://minhtuanmobile.com/xiaomi-redmi-note-15-pro-12gb-256gb/
-Hoàng Hà Mobile,phone,Xiaomi Redmi Note 17 128GB,Xiaomi Redmi Note 17 4GB/128GB,5490000,6990000,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-note-17
-Hoàng Hà Mobile,phone,Xiaomi Redmi Note 17 128GB,Xiaomi Redmi Note 17 5G 6GB/128GB,7290000,8990000,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-note-17-5g
 Minh Tuấn Mobile,phone,Xiaomi Redmi Note 17 Pro 256GB,Điện thoại Xiaomi Redmi Note 17 Pro 5G 6GB 256GB,8790000,11490000,https://minhtuanmobile.com/dien-thoai-xiaomi-redmi-note-17-pro-5g-6gb-256gb/
-Hoàng Hà Mobile,phone,Xiaomi Redmi Note 17 Pro Max 512GB,Xiaomi Redmi Note 17 Pro Max 5G 8GB/512GB,14290000,17990000,https://hoanghamobile.com/dien-thoai/xiaomi-redmi-note-17-pro-max-5g
-Điện Máy Xanh,tablet,Xiaomi Redmi Pad 2 128GB,Xiaomi Redmi Pad 2 WiFi 4GB/128GB,5990000,6190000,https://www.dienmayxanh.com/may-tinh-bang/xiaomi-redmi-pad-2-wifi-4gb-128gb?utm_flashsale=1
-Hoàng Hà Mobile,tablet,Xiaomi Redmi Pad 2 256GB,Redmi Pad 2 Wi-Fi (4GB+256GB),5790000,6690000,https://hoanghamobile.com/may-tinh-bang/redmi-pad-2-wifi-4gb-256gb
+Điện Máy Xanh,tablet,Xiaomi Redmi Pad 2 128GB,Xiaomi Redmi Pad 2 WiFi 4GB/128GB,5790000,6190000,https://www.dienmayxanh.com/may-tinh-bang/xiaomi-redmi-pad-2-wifi-4gb-128gb?utm_flashsale=1
+CellphoneS,tablet,Xiaomi Redmi Pad 2 256GB,Xiaomi Redmi Pad 2 Wifi 4GB 256GB,5890000,6690000,https://cellphones.com.vn/may-tinh-bang-xiaomi-redmi-pad-2-wifi-4gb-256gb.html
 CellphoneS,tablet,Xiaomi Redmi Pad 2 9 7 64GB,Xiaomi Redmi Pad 2 9.7 inch Wifi 4GB 64GB,3000000,4990000,https://cellphones.com.vn/may-tinh-bang-xiaomi-redmi-pad-2-9-7-inch.html
-Hoàng Hà Mobile,tablet,Xiaomi Redmi Pad 2 9 7 64GB,Xiaomi REDMI Pad 2 9.7 inch Wifi 4GB/64GB,4390000,4990000,https://hoanghamobile.com/may-tinh-bang/xiaomi-redmi-pad-2-9-7-inch-wifi
-Thế Giới Di Động,tablet,Xiaomi Redmi Pad 2 Pro 128GB,Xiaomi Redmi Pad 2 Pro WiFi 6GB/128GB,8790000,9190000,https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-2-pro-6gb-128gb
-Điện Máy Xanh,tablet,Xiaomi Redmi Pad 2 Pro 128GB,Xiaomi Redmi Pad 2 Pro WiFi 6GB/128GB,8790000,9190000,https://www.dienmayxanh.com/may-tinh-bang/xiaomi-redmi-pad-2-pro-6gb-128gb?utm_flashsale=1
-Hoàng Hà Mobile,phone,Xiaomi Robot Hút Bụi Lau Nhà Xiaomi Vacuum H50,Robot hút bụi lau nhà Xiaomi Vacuum H50,8790000,13990000,https://hoanghamobile.com/robot-hut-bui/xiaomi-vacuum-h50
-Hoàng Hà Mobile,phone,Xiaomi Robot Hút Bụi Lau Nhà Xiaomi Vacuum H50 Pro,Robot hút bụi lau nhà Xiaomi Vacuum H50 Pro,11900000,17990000,https://hoanghamobile.com/robot-hut-bui/xiaomi-vacuum-h50-pro
-Hoàng Hà Mobile,phone,Xiaomi Robot Hút Bụi Xiaomi Vacuum E5,Robot hút bụi Xiaomi Vacuum E5 - Chính hãng,1890000,2490000,https://hoanghamobile.com/robot-hut-bui/robot-hut-bui-xiaomi-vacuum-e5-chinh-hang
-Hoàng Hà Mobile,phone,Xiaomi Robot Hút Bụi Xiaomi Vacuum S40,Robot hút bụi Xiaomi Vacuum S40 - Chính hãng,4290000,5990000,https://hoanghamobile.com/robot-hut-bui/robot-hut-bui-xiaomi-vacuum-s40-chinh-hang
-Hoàng Hà Mobile,phone,Xiaomi Robot Hút Bụi Xiaomi Vacuum S40C,Robot hút bụi Xiaomi Vacuum S40C,3890000,4890000,https://hoanghamobile.com/may-hut-bui/robot-hut-bui-xiaomi-vacuum-s40c
-Hoàng Hà Mobile,phone,Xiaomi Đồng HỒ Thông Minh Xiaomi Watch 5,Đồng hồ thông minh Xiaomi Watch 5 - Chính hãng,5490000,9990000,https://hoanghamobile.com/dong-ho-thong-minh/dong-ho-thong-minh-xiaomi-watch-5
-Hoàng Hà Mobile,phone,Xiaomi Đồng HỒ Thông Minh Xiaomi Watch S4 41MM,Đồng hồ thông minh Xiaomi Watch S4 41mm - Đen,4290000,,https://hoanghamobile.com/dong-ho-thong-minh/dong-ho-thong-minh-xiaomi-watch-s4-41mm
-Hoàng Hà Mobile,phone,Xiaomi Đồng HỒ Thông Minh Xiaomi Watch S4 41MM,Đồng hồ thông minh Xiaomi Watch S4 41mm - Trắng dây Da,4990000,,https://hoanghamobile.com/dong-ho-thong-minh/dong-ho-thong-minh-xiaomi-watch-s4-41mm-trang-day-da
+Thế Giới Di Động,tablet,Xiaomi Redmi Pad 2 Pro 128GB,Xiaomi Redmi Pad 2 Pro WiFi 6GB/128GB,8590000,9190000,https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-2-pro-6gb-128gb
+Điện Máy Xanh,tablet,Xiaomi Redmi Pad 2 Pro 128GB,Xiaomi Redmi Pad 2 Pro WiFi 6GB/128GB,8590000,9190000,https://www.dienmayxanh.com/may-tinh-bang/xiaomi-redmi-pad-2-pro-6gb-128gb?utm_flashsale=1
 MediaMart,phone,Zte A35 64GB,Điện thoại di động ZTE A35 (4GB + 64GB) Xanh,1690000,,https://mediamart.vn/smartphones#26894
 MediaMart,phone,Zte A35 Xanh 1 690 000 1 990 000 15 64GB,Điện thoại di động ZTE A35 (4GB + 64GB) Xanh 1.690.000 ₫ 1.990.000 ₫ -15%,1690000,1990000,https://mediamart.vn/smartphones/dien-thoai-di-dong-zte-a35-4gb-64gb-xanh
 MediaMart,phone,Zte Nubia A36 64GB,Điện thoại di động Nubia A36 (4+64GB) Vàng,1890000,,https://mediamart.vn/smartphones#27922
@@ -521,7 +421,8 @@ MediaMart,phone,Zte Nubia A56 128GB,Điện thoại di động Nubia A56 (4+128G
 MediaMart,phone,Zte Nubia A56 128GB,Điện thoại di động Nubia A56 (4+128GB) Đen,2190000,,https://mediamart.vn/smartphones#27919
 MediaMart,phone,Zte Nubia A56 Vàng 2 190 000 2 490 000 12 128GB,Nubia A56 (4+128GB) Vàng 4 GB 128 GB 2.190.000 ₫ 2.490.000 ₫ -12%,2190000,2490000,https://mediamart.vn/smartphones/dien-thoai-di-dong-nubia-a56-4-128gb-vang
 MediaMart,phone,Zte Nubia A56 Đen 2 190 000 2 490 000 12 128GB,Nubia A56 (4+128GB) Đen 4 GB 128 GB 2.190.000 ₫ 2.490.000 ₫ -12%,2190000,2490000,https://mediamart.vn/smartphones/dien-thoai-di-dong-nubia-a56-4-128gb-den
-Hoàng Hà Mobile,phone,Zte Nubia Air 256GB,Nubia Air 5G 8GB/256GB,4990000,5990000,https://hoanghamobile.com/dien-thoai/nubia-air-5g
+CellphoneS,tablet,Zte Nubia Pad Pro 256GB,Nubia Pad Pro 8GB 256GB,10440000,11990000,https://cellphones.com.vn/may-tinh-bang-nubia-pad-pro-8gb-256gb.html
+CellphoneS,tablet,Zte Nubia Pad Pro 256GB,Nubia Pad Pro 12GB 256GB,12340000,13990000,https://cellphones.com.vn/may-tinh-bang-nubia-pad-pro.html
 MediaMart,phone,Zte Nubia V80 Design 128GB,Điện thoại di động Nubia V80 Design (4+128GB) Hồng,3690000,,https://mediamart.vn/smartphones#30301
 MediaMart,phone,Zte Nubia V80 Design 128GB,Điện thoại di động Nubia V80 Design (4+128GB) Xanh,3690000,,https://mediamart.vn/smartphones#30300
 MediaMart,phone,Zte Nubia V80 Design 128GB,Điện thoại di động Nubia V80 Design (4+128GB) Vàng,3690000,,https://mediamart.vn/smartphones#30299

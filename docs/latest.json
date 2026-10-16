@@ -1,9 +1,9 @@
 {
  "repo": "phone-tablet-price-emailer",
  "status": "ok",
- "updated_at": "2026-10-15T13:28:27+00:00",
- "item_count": 535,
- "model_count": 263,
+ "updated_at": "2026-10-16T01:20:36+00:00",
+ "item_count": 436,
+ "model_count": 253,
  "shops": [
   {
    "id": "tgdd",
@@ -14,13 +14,13 @@
   {
    "id": "dmx",
    "name": "Điện Máy Xanh",
-   "count": 35,
+   "count": 33,
    "status": "ok"
   },
   {
    "id": "cellphones",
    "name": "CellphoneS",
-   "count": 19,
+   "count": 27,
    "status": "partial"
   },
   {
@@ -32,14 +32,14 @@
   {
    "id": "hoangha",
    "name": "Hoàng Hà Mobile",
-   "count": 135,
+   "count": 24,
    "status": "partial"
   },
   {
    "id": "didongviet",
    "name": "Di Động Việt",
-   "count": 1,
-   "status": "partial"
+   "count": 6,
+   "status": "ok"
   },
   {
    "id": "viettelstore",
@@ -74,7 +74,7 @@
   {
    "id": "minhtuan",
    "name": "Minh Tuấn Mobile",
-   "count": 76,
+   "count": 77,
    "status": "ok"
   },
   {
