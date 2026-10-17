@@ -1,20 +1,20 @@
 {
  "repo": "phone-tablet-price-emailer",
  "status": "ok",
- "updated_at": "2026-10-17T01:21:43+00:00",
- "item_count": 485,
- "model_count": 278,
+ "updated_at": "2026-10-17T13:19:24+00:00",
+ "item_count": 486,
+ "model_count": 272,
  "shops": [
   {
    "id": "tgdd",
    "name": "Thế Giới Di Động",
-   "count": 37,
+   "count": 36,
    "status": "ok"
   },
   {
    "id": "dmx",
    "name": "Điện Máy Xanh",
-   "count": 33,
+   "count": 27,
    "status": "ok"
   },
   {
@@ -38,7 +38,7 @@
   {
    "id": "didongviet",
    "name": "Di Động Việt",
-   "count": 6,
+   "count": 14,
    "status": "ok"
   },
   {
