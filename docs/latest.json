@@ -1,9 +1,9 @@
 {
  "repo": "phone-tablet-price-emailer",
  "status": "ok",
- "updated_at": "2026-10-17T13:19:24+00:00",
- "item_count": 486,
- "model_count": 272,
+ "updated_at": "2026-10-18T01:21:21+00:00",
+ "item_count": 490,
+ "model_count": 279,
  "shops": [
   {
    "id": "tgdd",
@@ -14,7 +14,7 @@
   {
    "id": "dmx",
    "name": "Điện Máy Xanh",
-   "count": 27,
+   "count": 34,
    "status": "ok"
   },
   {
@@ -38,7 +38,7 @@
   {
    "id": "didongviet",
    "name": "Di Động Việt",
-   "count": 14,
+   "count": 11,
    "status": "ok"
   },
   {
