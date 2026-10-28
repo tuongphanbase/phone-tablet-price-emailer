@@ -1,9 +1,9 @@
 {
  "repo": "phone-tablet-price-emailer",
  "status": "ok",
- "updated_at": "2026-10-27T18:24:04+00:00",
- "item_count": 414,
- "model_count": 236,
+ "updated_at": "2026-10-28T06:24:43+00:00",
+ "item_count": 442,
+ "model_count": 251,
  "shops": [
   {
    "id": "tgdd",
@@ -20,7 +20,7 @@
   {
    "id": "cellphones",
    "name": "CellphoneS",
-   "count": 18,
+   "count": 17,
    "status": "partial"
   },
   {
@@ -38,7 +38,7 @@
   {
    "id": "didongviet",
    "name": "Di Động Việt",
-   "count": 12,
+   "count": 30,
    "status": "ok"
   },
   {
@@ -68,13 +68,13 @@
   {
    "id": "shopdunk",
    "name": "ShopDunk",
-   "count": 62,
+   "count": 72,
    "status": "ok"
   },
   {
    "id": "minhtuan",
    "name": "Minh Tuấn Mobile",
-   "count": 72,
+   "count": 73,
    "status": "ok"
   },
   {
