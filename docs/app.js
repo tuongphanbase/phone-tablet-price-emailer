@@ -30,7 +30,7 @@ function card(m) {
     <td class="p">${o.old_price ? `<span class="old">${vnd(o.old_price)}</span>` : ''}${vnd(o.price)}</td></tr>`).join('');
   return `<article class="model"><button type="button" aria-expanded="false">
       <h3>${esc(m.model)}</h3><div class="best">${vnd(best.price)}</div>
-      <div class="sub">${m.offers.length} cửa hàng · ${m.category === 'tablet' ? 'Máy tính bảng' : 'Điện thoại'}</div>
+      <div class="sub">${m.category === 'tablet' ? 'Máy tính bảng' : 'Điện thoại'} · ${m.offers.length} cửa hàng</div>
       <div class="sub r">${m.offers.length > 1 ? `rẻ nhất ở ${esc(best.shop_name)} · chênh ${vnd(worst.price - best.price)}` : esc(best.shop_name)}</div>
     </button><div class="offers"><table>${rows}</table>${chart(m.history)}</div></article>`;
 }
@@ -49,7 +49,7 @@ function render() {
   };
   list = list.sort(sorters[sort]);
   $('#count').textContent = `${list.length} model`;
-  $('#list').innerHTML = list.slice(0, shown).map(card).join('') || '<p class="muted">Không có model nào khớp.</p>';
+  $('#list').innerHTML = list.slice(0, shown).map(card).join('') || '<p class="empty">Không có model nào khớp.</p>';
   $('#more').hidden = list.length <= shown;
 }
 
@@ -60,7 +60,7 @@ async function load() {
     $('#updated').textContent = 'Chưa có dữ liệu: workflow "Send phone & tablet prices" chưa chạy lần nào.';
     return;
   }
-  $('#updated').textContent = `Cập nhật ${new Date(latest.updated_at).toLocaleString('vi-VN')}`;
+  $('#updated').textContent = `So sánh giá giữa các cửa hàng · cập nhật ${new Date(latest.updated_at).toLocaleString('vi-VN')}`;
   $('#items').textContent = latest.item_count.toLocaleString('vi-VN');
   $('#models').textContent = (data?.models || []).filter((m) => m.offers.length > 1).length.toLocaleString('vi-VN');
   const shops = latest.shops || [];
