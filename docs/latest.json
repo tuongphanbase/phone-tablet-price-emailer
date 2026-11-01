@@ -1,9 +1,9 @@
 {
  "repo": "phone-tablet-price-emailer",
  "status": "ok",
- "updated_at": "2026-11-01T06:57:44+00:00",
- "item_count": 465,
- "model_count": 262,
+ "updated_at": "2026-11-01T18:12:38+00:00",
+ "item_count": 419,
+ "model_count": 246,
  "shops": [
   {
    "id": "tgdd",
@@ -32,13 +32,13 @@
   {
    "id": "hoangha",
    "name": "Hoàng Hà Mobile",
-   "count": 25,
+   "count": 20,
    "status": "partial"
   },
   {
    "id": "didongviet",
    "name": "Di Động Việt",
-   "count": 52,
+   "count": 9,
    "status": "ok"
   },
   {
@@ -74,7 +74,7 @@
   {
    "id": "minhtuan",
    "name": "Minh Tuấn Mobile",
-   "count": 74,
+   "count": 76,
    "status": "ok"
   },
   {
