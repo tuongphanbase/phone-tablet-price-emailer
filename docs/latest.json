@@ -1,9 +1,9 @@
 {
  "repo": "phone-tablet-price-emailer",
  "status": "ok",
- "updated_at": "2026-11-04T07:06:09+00:00",
- "item_count": 412,
- "model_count": 240,
+ "updated_at": "2026-11-04T20:09:12+00:00",
+ "item_count": 406,
+ "model_count": 238,
  "shops": [
   {
    "id": "tgdd",
@@ -38,8 +38,8 @@
   {
    "id": "didongviet",
    "name": "Di Động Việt",
-   "count": 0,
-   "status": "failed"
+   "count": 7,
+   "status": "ok"
   },
   {
    "id": "viettelstore",
@@ -86,8 +86,8 @@
   {
    "id": "clickbuy",
    "name": "Clickbuy",
-   "count": 13,
-   "status": "partial"
+   "count": 0,
+   "status": "failed"
   },
   {
    "id": "bachlong",
