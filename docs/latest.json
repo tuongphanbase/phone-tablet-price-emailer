@@ -1,8 +1,8 @@
 {
  "repo": "phone-tablet-price-emailer",
  "status": "ok",
- "updated_at": "2026-11-04T20:09:12+00:00",
- "item_count": 406,
+ "updated_at": "2026-11-05T07:31:33+00:00",
+ "item_count": 408,
  "model_count": 238,
  "shops": [
   {
@@ -20,7 +20,7 @@
   {
    "id": "cellphones",
    "name": "CellphoneS",
-   "count": 19,
+   "count": 21,
    "status": "partial"
   },
   {
