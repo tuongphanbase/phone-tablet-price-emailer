@@ -1,8 +1,8 @@
 {
  "repo": "phone-tablet-price-emailer",
  "status": "ok",
- "updated_at": "2026-11-13T20:09:12+00:00",
- "item_count": 436,
+ "updated_at": "2026-11-14T07:08:38+00:00",
+ "item_count": 439,
  "model_count": 256,
  "shops": [
   {
@@ -38,7 +38,7 @@
   {
    "id": "didongviet",
    "name": "Di Động Việt",
-   "count": 38,
+   "count": 41,
    "status": "ok"
   },
   {
