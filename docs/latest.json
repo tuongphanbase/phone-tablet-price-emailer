@@ -1,9 +1,9 @@
 {
  "repo": "phone-tablet-price-emailer",
  "status": "ok",
- "updated_at": "2026-11-14T07:08:38+00:00",
+ "updated_at": "2026-11-14T18:35:15+00:00",
  "item_count": 439,
- "model_count": 256,
+ "model_count": 255,
  "shops": [
   {
    "id": "tgdd",
