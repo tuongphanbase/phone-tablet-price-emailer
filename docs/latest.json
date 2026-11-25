@@ -1,9 +1,9 @@
 {
  "repo": "phone-tablet-price-emailer",
  "status": "ok",
- "updated_at": "2026-11-24T22:52:02+00:00",
- "item_count": 418,
- "model_count": 225,
+ "updated_at": "2026-11-25T09:17:49+00:00",
+ "item_count": 466,
+ "model_count": 255,
  "shops": [
   {
    "id": "tgdd",
@@ -38,7 +38,7 @@
   {
    "id": "didongviet",
    "name": "Di Động Việt",
-   "count": 9,
+   "count": 11,
    "status": "ok"
   },
   {
@@ -50,8 +50,8 @@
   {
    "id": "nguyenkim",
    "name": "Nguyễn Kim",
-   "count": 0,
-   "status": "failed"
+   "count": 47,
+   "status": "ok"
   },
   {
    "id": "mediamart",
@@ -74,7 +74,7 @@
   {
    "id": "minhtuan",
    "name": "Minh Tuấn Mobile",
-   "count": 81,
+   "count": 80,
    "status": "ok"
   },
   {
